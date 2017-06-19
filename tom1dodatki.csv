@@ -3,7 +3,7 @@
 -cki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=446&highlight=416,5483,257,73; [-CKI];
 -ąd;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=134&highlight=2701,4748,194,75; [-ĄD];
 -ć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=344&highlight=2393,2340,263,129; [1. -ć];1. ~
--ć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=208,3884,428,123; [2. -ć, CI,];2. ~ -ć, CI,
+-ć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=208,3884,428,123;[2. -ć, CI,];2. ~, CI,
 -ędy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=134&highlight=2903,4748,236,78; [-ĘDY];
 -ęta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=762&highlight=404,4925,245,25; [-ĘTA];
 Byczyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=338&highlight=2584,3822,779,84; [BYCZYNA, miasteczko];miasteczko
@@ -16,7 +16,7 @@ Dubrowna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 Egra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=757&highlight=1212,3878,575,61; [2. EGRA, rzéka];2. ~, rzéka
 Egra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=757&highlight=196,3890,563,37; [1. EGRA miasto];1. ~ miasto
 Janów;http://korpusy.klf.uw.edu.pl/djvus/linde-t/02/index.djvu?djvuopts&page=242&highlight=761,1950,305,122;miasto [JANÓW];
-abkabuz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=3465,5356,372,96;żołnierz [ABKABUZ];
+arkabuz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=3465,5356,372,96;żołnierz [ABKABUZ, a.];*~, a, m. żołnierz
 abo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=141&highlight=3435,5116,156,102; [ABO];
 agnes;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=137&highlight=2337,3976,244,97; [AGNES];
 agnuszkowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=137&highlight=3295,2767,556,91; [AGNUSZKOWY];
@@ -33,23 +33,23 @@ albowiem;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 alboż;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=141&highlight=3033,5128,270,90; [ALBOŻ];
 alemanni;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=142&highlight=378,3629,395,108; [ALEMANNI];
 anetka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=150&highlight=845,3203,312,96; [ANETKA];
-angielski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=148&highlight=2860,1530,419,77; [ANGIELSKI];
-anielka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=148&highlight=2446,1590,354,107; [ANIELKA];
+angielski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=148&highlight=2860,1530,419,77;[ANGIELSKI];*~
+Anielka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=148&highlight=2446,1590,354,107;[ANIELKA];
 anu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=2296,1649,198,102; [ANU!];~!
-anusia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=2296,1140,294,90; [ANUSIA];
-anusienka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=3003,1146,444,96; [ANUSIENKA];
-anuśka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=2638,1146,312,78; [ANUŚKA];
+Anusia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=2296,1140,294,90;[ANUSIA];
+Anusienka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=3003,1146,444,96;[ANUSIENKA];
+Anuśka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=151&highlight=2638,1146,312,78;[ANUŚKA];
 arch-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=155&highlight=216,810,258,102; [ARCH-];
 archi-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=155&highlight=534,816,281,108; [ARCHI-];
 arcy-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=155&highlight=857,816,300,102; [ARCY-];
-arcydyakon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=156&highlight=2500,5614,515,72; [ARCYDYAKON];
-arcydziakon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=156&highlight=3123,5602,540,84; [ARCYDZIAKON];
+arcydyakon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=156&highlight=2500,5614,515,72;[ARCYDYAKON];*~
+arcydziakon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=156&highlight=3123,5602,540,84;[ARCYDZIAKON];*~
 arcynauka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=156&highlight=2476,816,456,90; [ARCYNAUKA];
 arka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=402,1512,209,95; [ARKA];
 arkan;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=2476,4193,396,90; [2. ARKAN];2. ~
 aryetka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=160&highlight=2494,1721,354,90; [ARYETKA];
 aryjka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=160&highlight=2896,1721,317,84; [ARYJKA];
-atyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=164&highlight=402,4751,251,71; [ATYNA];
+Atyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=164&highlight=402,4751,251,71;[ATYNA];
 au;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=164&highlight=390,4313,144,96; [AU!];~!
 aucuk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=165&highlight=611,5458,270,96; [AUCUK];
 aucużek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=165&highlight=1565,5470,365,90; [AUCUŻEK];
@@ -57,44 +57,42 @@ aureliański;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&p
 ańcia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=150&highlight=1547,3191,263,114; [AŃCIA];
 aż;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=166&highlight=2494,3725,108,90; [AŻ];
 ażusta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=167&highlight=540,2147,287,108; [AŻUSTA];
-b0!;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=261&highlight=165,2518,178,86; [B0!];
+bo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=261&highlight=165,2518,178,86;[B0!];~!
 b;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=167&highlight=2326,5464,120,162; [B];
-babilon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=169&highlight=2386,1637,2026,156; [BABILON];
+Babilon;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=169&highlight=2386,1637,2026,156;[BA­­BILON];,~~ ⸗ nieład
 babilońska;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=169&highlight=3165,1637,762,96; [BABILOŃSKA wieża];⟦BABILOŃSKA wieża⟧
 babus;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=171&highlight=276,5272,300,102; [BABUS];
-bach;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=171&highlight=2644,2099,234,96; [BACH];
+Bach;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=171&highlight=2644,2099,234,96;[BACH];
 bachowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=171&highlight=2674,1266,407,84; [BACHOWY];
 bacik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=193&highlight=3519,2189,342,114; [2. BACIK];2. ~
 badatliwy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=173&highlight=1822,1901,456,78; [BADATLIWY];
 badyl;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=173&highlight=2296,4840,270,102; [BADYL];
-bagienko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=737,4757,414,101; [BAGIENKO];
-bagieńko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=767,4769,396,95; [BAGIEŃKO,];
+bagienko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=767,4769,396,95;[BAGIEŃKO,];~~ demin.
 baj;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=366,2771,263,78; [2. BAJ];2. ~
 baj;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=444,1805,293,108; [2. BAJ];2. ~
 baja;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=2002,1895,222,114; [BAJA];
 baja;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=174&highlight=372,2339,281,90; [2. BAJA];2. ~
-bajka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=175&highlight=1151,876,270,102; [BAJKA];
+bajka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=175&highlight=1151,876,270,102;[BAJKA];II. *~
 bajtko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=194&highlight=707,3959,306,102; [BAJTKO];
 baki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=176&highlight=2494,1554,198,95; [BAKI];
 bakuła;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=177&highlight=3051,5626,348,96; [BAKUŁA];
 bal;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=177&highlight=204,2759,276,78; [3. BAL];3. ~
-bal;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=177&highlight=228,3095,288,108; [2. BAL];2. ~
+bal;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=177&highlight=228,3095,288,108;[2. BAL];2. *~
 balas;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=178&highlight=372,4163,371,90; [2. BALAS];2. ~
 balasy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=178&highlight=1427,4157,294,96; [BALASY];
 balustrata;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=179&highlight=2302,3191,504,96; [BALUSTRATA];
 balwierz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=191&highlight=1307,3623,420,84; [BALWIERZ];
 ban;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=181&highlight=186,2687,330,90; [2. BAN];2. ~
 baner;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=182&highlight=2506,4781,264,107; [BANER];
-banialuka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=234,2681,431,66; [BANIALUKA];
+Banialuka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=234,2681,431,66;[BANIALUKA];
 banicya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=258,2045,318,84; [BANICYA];
 banieczka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=2908,4073,425,108; [BANIECZKA];
 baniecznik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=184&highlight=683,3635,450,78; [BANIECZNIK];
-baninicya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=185&highlight=210,4061,366,96; [BANINICYA];
+bannicya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=185&highlight=210,4061,366,96;[BANNICYA];
 baniuczka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=3873,4067,425,96; [BANIUCZKA];
 baniuszka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=183&highlight=3405,4055,402,96; [BANIUSZKA];
 bankrut;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=185&highlight=294,5164,455,126; [2. BANKRUT];2. ~
-bar;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=185&highlight=210,3107,156,60; [BAR];
-barbarka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=187&highlight=1703,5104,425,96; [BARBARKA];
+Barbarka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=187&highlight=1703,5104,425,96;[BARBARKA];
 bardziej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=188&highlight=755,5158,366,102; [BARDZIEJ];
 bardzo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=188&highlight=390,5176,299,60; [BARDZO];
 bareczka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=188&highlight=396,5080,383,108; [BARECZKA];
@@ -122,8 +120,8 @@ baś baś;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 baś;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=192&highlight=354,4223,959,96; [BAŚ, BAŚ, BASIU, BASIU!];⟦BAŚ, BAŚ, BASIU, BASIU!⟧
 baź;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=192&highlight=1673,4241,767,60; [baź, baź i baziu, baziu!];⟦baź, baź i baziu, baziu⟧
 baż baź;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=192&highlight=1673,4241,767,60; [baź, baź i baziu, baziu!];⟦baź, baź i baziu, baziu⟧
-bbzemiononośny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=313&highlight=3788,754,569,55; [BBZEMIONONO­ŚNY];
-bbzękacz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=312&highlight=3745,1152,416,61; [BBZĘKACZ];
+brzemiononośny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=313&highlight=3788,754,569,55;[BBZEMIONONO­ŚNY];
+brzękacz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=312&highlight=3745,1152,416,61;[BBZĘKACZ];
 bdła;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=199&highlight=510,948,239,102; [BDŁA];
 be;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=197&highlight=222,5464,96,84; [BE];
 beelzebub;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=201&highlight=2270,1111,2118,190;... [BEELZEBUB vide Bies, Czart];vide Bies, Czart
@@ -132,31 +130,28 @@ beknąć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 belka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=201&highlight=1275,5270,373,116;??? [2. BELKA];2. ~
 belka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=201&highlight=180,2903,971,108; [BELKA viede Bela et Balka];viede Bela et Balka
 bellowarda;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=201&highlight=3240,3780,1123,122; [BELLOWARDA vide Beluwarda.];vide Beluwarda.
-ber;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=202&highlight=360,745,360,134; [BER];
 berdysz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=202&highlight=391,776,811,79; [BERDYSZ vide Bardysz.];vide Bardysz.
 bergamuta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=202&highlight=3033,5191,464,104; [BERGAMUTA];
-bern;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=309&highlight=2558,4778,275,123; [*BERN];*~
+Bern;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=309&highlight=2558,4778,275,123;[*BERN];*~
 bersana;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=190&highlight=2056,1116,360,108; [BERSANA];
-berzana;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=203&highlight=226,2119,1300,135; [BERZANA];
 berzana;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=203&highlight=232,2028,1300,201; [BERZANA, BERZANKA ob. Barwena];ob. Barwena
 berzanka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=203&highlight=195,2113,1312,92; [BERZANKA ob. Barwena];ob. Barwena
-berzanka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=203&highlight=232,2028,1300,201; [BERZANA, BERZANKA ob. Barwena];ob. Barwena
 bespieczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=214&highlight=433,1118,440,85; [BESPIECZNY];
 bespieczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=214&highlight=433,1118,446,73; [BESPIECZNY];
 bessermianski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=203&highlight=2386,3945,1263,86; [BESSERMIANSKI ob.. Bisurmański];ob.. Bisurmański
 bez;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=204&highlight=2478,818,256,110; [2. BEZ];2. ~
 bez;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=204&highlight=2484,1686,305,97; [1. BEZ,];1. ~,
-bezbok;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=216&highlight=2905,1899,439,86; [na BEZBOK,];⟦na BEZBOK⟧
+bezrok;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=216&highlight=2905,1899,439,86;[na BEZBOK,];⟦na BEZBOK⟧
 bezchytry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=206&highlight=2545,5460,506,91; [*BEZCHYTRY,];*~,
 bezczesny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=207&highlight=1294,4513,561,86; [2. BEZCZESNY];2. ~
 bezdny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=207&highlight=2557,2681,842,86; [BEZDNY ob. Bezdenny.];ob. Bezdenny.
 bezdzielnie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=208&highlight=1562,1014,501,91; [BEZDZIELNIE];
-bezdzielnie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=208&highlight=1593,1008,476,103; [BEZDZIELNIE];
+bezdzielny;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=208&highlight=4299,4859,228,80;bez­dzielny;2. ~
 bezedny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=209&highlight=275,4825,836,103; [BEZEDNY ob. Bezdenny];ob. Bezdenny
 bezgłosy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=209&highlight=1416,2925,378,86; [BEZGŁOSY];
 bezoki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=213&highlight=2435,5277,751,109; [BEZOKI ob. Bezoczy];ob. Bezoczy
 bezpiecznie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=214&highlight=1050,1014,512,104; [BEZPIECZNIE];
-bezpiecznie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=214&highlight=1080,1038,464,86; [BEZPIECZNIE];
+bezpiecznie;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=214&highlight=2980,4124,492,114; [BEZPIECZNIE];
 bezpiory;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=215&highlight=1080,4849,415,104; [BEZPIORY];
 bezpióry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=215&highlight=1098,4843,379,92; [BEZPIÓRY];
 bezrodnie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=216&highlight=3253,2608,457,73; [BEZRODNIE];
@@ -178,12 +173,11 @@ biedować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 biegączka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=234&highlight=1426,2065,434,73; [BIEGĄCZKA];
 biel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=234&highlight=2900,4840,208,128;??? [BIEL];
 bielarka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=235&highlight=318,4423,373,80; [BIELARKA];
-bielarka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=235&highlight=330,4429,355,92; [BIELARKA];
 bielczany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=235&highlight=1903,3921,379,61; [BIELCZANY];
 bielić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=235&highlight=3629,4509,367,86; [BIELIĆ się];się
 bielony;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=600,1734,716,79; [BIELONY ob. Bielić.];ob. Bielić.
-bielusienki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=3035,4582,1499,111; [BIELUSIENKI, BIELUSKI, BIELUTKI ob. Bieluchny];ob. Bieluchny
-bieluski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=3035,4582,1499,111; [BIELUSIENKI, BIELUSKI, BIELUTKI ob. Bieluchny];ob. Bieluchny
+bielusieńki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=3035,4582,1499,111;[BIELUSIENKI, BIELUSKI, BIELUTKI ob. Bieluchny];ob. Bieluchny
+bieluśki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=3035,4582,1499,111;[BIELUSIENKI, BIELUSKI, BIELUTKI ob. Bieluchny];ob. Bieluchny
 bielutki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=3035,4582,1499,111; [BIELUSIENKI, BIELUSKI, BIELUTKI ob. Bieluchny];ob. Bieluchny
 bieret;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=240&highlight=2766,1329,269,62; [BIERET];
 biernat;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=237&highlight=177,3939,417,92; [2. BIERNAT];2. ~
@@ -193,12 +187,12 @@ bierzmo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=2
 bierzwiono;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=237&highlight=704,1507,471,74; [BIERZWIONO];
 biesagi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=238&highlight=1891,4454,300,79; [BIESAGI];
 bieszczadzkie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=239&highlight=184,3565,1193,74; [BIESZCZADZKIE góry ob. Bieściad.];⟦BIESZCZADZKIE góry⟧  ob. Bieściad.
-biełka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=1573,4852,611,92; [BIEŁKA ob. Biela.];ob. Biela.
+bielka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=236&highlight=1573,4852,611,92;[BIEŁKA ob. Biela.];ob. Biela.
 bilica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=239&highlight=2252,1323,648,74; [BILICA ob. Bielica.];ob. Bielica.
-bindas;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=240&highlight=2490,3921,557,61; [2. BINDAS ob. Binda.];2. ~ ob. Binda.
+bindas;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=240&highlight=573,832,276,75; [2. BINDAS ob. Binda.];2. ~ ob. Binda.
 birnia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=237&highlight=557,3841,275,80; [BIRNIA];
-bis.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=241&highlight=948,2769,459,67; [BIS. ob. Bies.];ob. Bies.
-bistonski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=242&highlight=1560,3958,404,91;??? [BISTONSKI];
+bis;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=241&highlight=948,2769,459,67;[BIS. ob. Bies.];. ob. Bies.
+bistoński;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=242&highlight=1560,3958,404,91;??? [BISTONSKI];
 bite;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=242&highlight=392,2058,887,92; [BITE nijak imiesł. od Bić,];nijak imiesł. od Bić,
 bitunek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=333&highlight=2674,4932,353,96; [*BITUNEK];*~
 bity;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=243&highlight=1022,4650,471,67; [BITY ob. Bić.];ob. Bić.
@@ -209,15 +203,14 @@ blado;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=244
 blecharz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=249&highlight=2594,3988,386,68; [BLECHARZ];
 blechować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=249&highlight=3035,3118,453,61; [BLECHOWAĆ];
 blecić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=250&highlight=2845,3712,306,86; [*BLECIĆ,];*~,
-bledzić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=250&highlight=2454,3712,306,56; [BLEDZIĆ,];
 bledzić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=250&highlight=2845,3706,294,80; [BLEDZIĆ];
 blejgelb;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=250&highlight=2552,2052,777,104; [BLEJGELB ob. Blajgel.];ob. Blajgel.
 bleskot;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=261&highlight=2038,5642,171,68; [*BLESKOT];*~
-blezączka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=234&highlight=1885,2040,440,104; [BIEZĄCZKA];
+bieżączka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=234&highlight=1885,2040,440,104;[BIEZĄCZKA];
 blich;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=249&highlight=2625,5213,214,62; [BLICH];
 blichować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=249&highlight=3567,3112,447,55; [BLICHOWAĆ];
 bliktry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=251&highlight=2325,3026,845,49; [BLIKTRY ob. BŁYKTRY.];ob. BŁYKTRY.
-bliktry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=260&highlight=2558,4460,557,86; [BLIKTRY];
+bliktry;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=260&highlight=774,4648,326,67; [BLIKTRY];
 bliski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=251&highlight=3372,1795,250,61; [BLISKI];
 blitram;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=251&highlight=2760,2928,765,74; [BLITRAM ob. Blejtram];ob. Blejtram
 blizce;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=252&highlight=759,3792,318,74; [*BLIZCE];*~
@@ -346,7 +339,6 @@ burk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=329&
 burkatella;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=302&highlight=3574,1917,501,50; [BURKATELLA];
 burkować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=329&highlight=2319,4466,1469,116; [BURK, BURKOWAĆ ob. Bruk, Brukować];ob. Bruk, Brukować
 burkować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=329&highlight=3164,2310,722,104; [BURKOWAĆ];
-burta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=330&highlight=2417,1035,404,117; [2. *BURTA];2. *~
 bury;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=331&highlight=234,5172,204,84; [BURY];
 burzca;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=332&highlight=1199,942,324,84; [*BURZCA,];*~,
 burzka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=331&highlight=2860,5346,323,96; [BURZKA];
@@ -374,9 +366,9 @@ byty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=342&
 bywszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=343&highlight=2806,4374,737,60; [BYWSZY, a, e, były,];a, e, były,
 byś;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=340&highlight=2488,3864,1055,102; [BYŚ, BYSIEK ob. Byk, Bycze];ob. Byk, Bycze
 bzducha;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=344&highlight=922,1750,1035,94; [BZDUCHA, y, ż. purchawka];y, ż. purchawka
-bzdurzyg;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=343&highlight=3525,1944,833,84; [BZDURZYG czyn. nied.,];czyn. nied.,
-bzręga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=343&highlight=2710,3474,737,90; [BZRĘGA ob. Pstrąg.];ob. Pstrąg.
-bóg;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=268&highlight=459,4846,300,73;rzeka [2. BÓG];2. ~
+bzdurzyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=343&highlight=3525,1944,833,84;[BZDURZYG czyn. nied.,];czyn. nied.,
+bzdręga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=343&highlight=2710,3474,737,90;[BZDRĘGA ob. Pstrąg.];ob. Pstrąg.
+Bóg;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=268&highlight=459,4846,300,73;rzeka [2. BÓG];2. ~
 bókwica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=274&highlight=4185,1489,361,67; [BÓKWICA ob.];ob.
 bónt;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=327&highlight=2619,3725,208,92; [BÓNT];
 bóratek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=277&highlight=2276,2585,845,86; [BÓRATEK ob. Boradek.];ob. Boradek.
@@ -401,16 +393,16 @@ błyktry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 błyska;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=260&highlight=2784,4723,410,80; [BŁYSKA się];się
 błyskotać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=261&highlight=1897,4766,318,74; [BŁYSKO­TAĆ];
 błędnik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=250&highlight=447,3529,330,61; [BŁĘDNIK];
-błękac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=245&highlight=2796,2065,435,73; [BŁĘKAC się];się
+błękać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=245&highlight=2796,2065,435,73;[BŁĘKAC się];się
 bździny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=344&highlight=510,2376,641,72; [BŹDZINY liczb. mn.,];liczb. mn.,
 c;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=344&highlight=2441,3376,111,189; [C];
-c;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=471&highlight=600,5293,642,92; [2. Cypr, drzewo,];2. ~ypr, drzewo,
+cypr;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=471&highlight=600,5293,642,92;[2. Cypr, drzewo,];2. ~, drzewo,
 cacać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=1995,784,257,68; [CACAĆ];
 cacka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=4020,1642,245,98; [CACKA,];
 cackać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=2821,5642,465,80; [CACKAĆ się];się
 caco;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=2919,1648,196,80; [CACO];
 cacunio;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=3580,1648,336,92; [CACUNIO];
-cadzeniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=353&highlight=1615,2144,625,98; [CADZENIEC, ńca];ńca
+cadzeniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=353&highlight=1615,2144,625,98;[CADZENIEC, ńca];, ńca
 cadzić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=353&highlight=526,4668,704,92; [*CADZIĆ czyn. nied.,];*~ czyn. nied.,
 cafać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=453&highlight=490,4368,281,73; [CAFAĆ,];
 calutenki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=348&highlight=2472,1237,1463,74; [CAŁUSIEŃKI, CALUTENKI ob. Całuchny.];ob. Całuchny.
@@ -429,7 +421,6 @@ cegiełka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 ceglować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=354&highlight=416,2340,924,68; [CEGLOWAĆ ob. Ceklować.];ob. Ceklować.
 cegła;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=353&highlight=4002,2591,343,68; [CEGŁA, y,];y,
 celnie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=1450,3761,588,86; [CELNIE];
-celnik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=324,4974,710,123; [2. *CELNIK, a, m.];2. *~, a, m.
 celny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=349,3780,361,80; [3. CELNY];3. ~
 celny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=355,4037,606,74; [2. CELNY, a, c,];2. ~, a, c,
 celowny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=3678,4111,856,92; [*CELOWNY ob. Celny.];*~ ob. Celny.
@@ -450,7 +441,7 @@ cham;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=363&
 chama;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=363&highlight=2331,3780,465,92; [CHAMA, y, ż.];y, ż.
 chanski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=363&highlight=2588,5446,618,80; [CHANSKI, a, ie,];a, ie,
 charakterystyczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=364&highlight=3971,5618,533,85; [CHARAKTERY­STYCZNY];
-charchąć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=391&highlight=2845,2904,386,92; [CHARCHĄĆ];
+charchąć;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=391&highlight=3045,2738,309,79; [CHARCHĄĆ];
 charkawy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=392&highlight=2142,4619,232,61; [CHAR­KAWY];
 charkać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=391&highlight=3365,2922,998,49; [CHARKAĆ, intrans. kontyn.,];intrans. kontyn.,
 charkała;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=392&highlight=441,5109,630,86; [CHARKAŁA, y, m.];y, m.
@@ -458,7 +449,7 @@ charkotliwie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&p
 charpina;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=393&highlight=2404,5628,366,66; [CHARPINA];
 charpęcina;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=393&highlight=3351,5610,714,102; [CHARPĘCINA, y, ż.,];y, ż.,
 charpęć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=393&highlight=4101,5610,269,108; [CHAR­PĘĆ];
-chbzypieć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=1095,4760,832,86; [CHBZYPIEĆ ob. Chrapieć.];ob. Chrapieć.
+chrzypieć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=1095,4760,832,86;[CHBZYPIEĆ ob. Chrapieć.];ob. Chrapieć.
 chechot;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=367&highlight=2295,3222,1744,74; [CHECHOT, CHECHOTAĆ ob. Chychot, Chychotać.];ob. Chychot, Chychotać.
 chechotać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=367&highlight=2295,3222,1744,74; [CHECHOT, CHECHOTAĆ ob. Chychot, Chychotać.];ob. Chychot, Chychotać.
 chil;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=411&highlight=2601,4068,471,104; [CHIL, u, m.];u, m.
@@ -510,7 +501,7 @@ chrzabąszcz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&p
 chrzesla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=400&highlight=861,3992,944,90; [*CHRZESLA ob. Chrościna.];*~ ob. Chrościna.
 chrzestny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=202,5097,918,86; [CHRZESTNY ob. Chrzesny.];ob. Chrzesny.
 chrztowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=1297,5023,606,56; [CHRZTOWY, a, e,];a, e,
-chrzypliwość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=392&highlight=2882,950,918,67; [CHRZYPLIWOŚĆ, ści, a.];ści, a.
+chrzypliwość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=392&highlight=2882,950,918,67;[CHRZYPLIWOŚĆ, ści, a.];, ści, a.
 chrzypliwość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=1964,4760,312,86; [CHRZY­PLIWOŚĆ];
 chrząchac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=398&highlight=1444,3118,918,80; [CHRZĄCHAC ob. Krząkać.];ob. Krząkać.
 chrząstać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=400&highlight=3751,1911,814,86; [*CHRZĄSTAĆ];*~
@@ -570,7 +561,7 @@ ciasnoszka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pag
 ciasto;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=421&highlight=1475,4337,275,68; [CIASTO];
 ciaśnina;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=419&highlight=2289,2598,832,67; [CIAŚNINA ob. Cieśnina.];ob. Cieśnina.
 cichu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=422&highlight=3525,2163,336,98; [Po cichu,];⟦Po cichu⟧
-ciebie ;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=422&highlight=2478,1054,741,67; [CIĘ, CIEBIE ob. Ty.];ob. Ty.
+ciebie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=422&highlight=2478,1054,741,67; [CIĘ, CIEBIE ob. Ty.];ob. Ty.
 cieciorka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=423&highlight=3249,2352,961,92; [CIECIORKA, i, ż. ptak,];i, ż. ptak,
 cieckać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=345&highlight=985,778,337,86; [CIECKAĆ];
 cieckać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=424&highlight=343,4503,985,79; [CIECKAĆ się ob. Cackać się.];się ob. Cackać się.
@@ -593,7 +584,7 @@ ciemno;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=42
 cienczyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=431&highlight=2074,5305,215,74; [CIEN­CZYĆ się];się
 cienie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=429&highlight=3290,2953,492,65; [CIENIE, ia. n.];ia. n.
 cieniej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=431&highlight=1040,4356,985,67; [CIENIEJ ob. Cienko, Cienki,];ob. Cienko, Cienki,
-cieniek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=432&highlight=820,3314,538,80; [*CIENIEK, a, m.,];*~, a, m.,
+cieniek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=0431&zoom=width&showposition=0.535,0.323&highlight=2142,4326,116,92;    ((235-2-35-0-0-0 __ _ ___)) ; 
 cienieć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=431&highlight=2099,4435,190,105; [CIE­NIEĆ ob.];ob.
 cienkogłosy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=431&highlight=3837,1170,520,55; [CIENKOGŁOSY,];
 cienszeć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=432&highlight=838,2101,802,62; [CIENSZEĆ ob. Cieńczeć.];ob. Cieńczeć.
@@ -640,10 +631,8 @@ cięgoty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 cięgoty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=424&highlight=606,3302,673,61; [CIĘGOTY liczb. mn.];liczb. mn.
 cięgłosc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=424&highlight=447,1378,1450,98; [CIĘGŁOSC, CIĘGŁY ob. Ciągłość, Ciągły.];CIĘGŁY ob. Ciągłość, Ciągły.
 cięszki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=439&highlight=269,925,337,104; [*CIĘSZKI];*~
-cięszki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=439&highlight=281,919,337,86; [*CIĘSZKI];*~
 cięty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=438&highlight=2490,2800,533,67; [CIĘTY ob. Ciąć.];ob. Ciąć.
-cięza;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=438&highlight=2478,2720,471,67; [CIĘZA, y, ż.];y, ż.
-cięzko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=440&highlight=1065,1581,269,73; [CIĘZKO,];
+cięża;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=438&highlight=2478,2720,471,67;[CIĘZA, y, ż.];y, ż.
 ciężko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=440&highlight=1046,1587,288,61; [CIĘŻKO,];
 ciężkonogi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=440&highlight=3598,1427,459,49; [CIĘŻKONOGI,];
 cmentarzowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=447&highlight=3788,2849,477,116; [CMENTARZO­WY];
@@ -682,15 +671,15 @@ cynadry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=4
 cynar;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=355,5293,685,86; [*CYNAR ob. Cenar.];*~ ob. Cenar.
 cynek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=367,1911,741,80; [2. CYNEK, nku, m.];2. ~, nku, m.
 cynek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=379,1642,814,104; [3. CYNEK, ob. zynek];3. ~, ob. zynek
-cyngatura;";http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=392,1476,930,86; [*CYNGATURA ob. Cięgatura];*~ ob. Cięgatura
+cyngatura;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=470&highlight=376,1488,448,84;;
 cyngiel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=1365,1489,734,55; [CYNGIEL ob. Cięgiel.];ob. Cięgiel.
 cynkatura;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=470&highlight=367,1201,722,110; [*CYNKATURA, i, ż.];*~, i, ż.
 cyrkularze;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=472&highlight=1291,4356,471,67; [CYRKULARZE];
-cyruliczek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=472&highlight=3794,4687,703,79; [CYRULICZEK, czka,];czka,
+cyruliczek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=472&highlight=3794,4687,703,79;[CYRULICZEK, czka,];, czka,
 cytara;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=471,2683,355,62; [*CYTARA,];*~,
 cytrynat;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=4155,3639,202,80; [CY­TRYNAT ob.];ob.
-cywa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=2264,2242,1248,86; [CYWA, CYWKA ob. Cewa];ob. Cewa; Cewka.
-cywka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=2264,2242,1248,86; [CYWA, CYWKA ob. Cewa];ob. Cewa; Cewka.
+cywa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=2264,2242,1248,86; [CYWA, CYWKA ob. Cewa];ob. Cewa
+cywka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=473&highlight=2264,2242,1248,86; [CYWA, CYWKA ob. Cewa];ob. Cewa
 czabański;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=474&highlight=967,3192,655,55; [CZABAŃSKI, a, ie,];a, ie,
 czac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=474&highlight=985,1721,220,74; [*CZAC];*~
 czachy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=474&highlight=1273,2389,667,80; [CZACHY liczb. mn.];liczb. mn.
@@ -716,7 +705,6 @@ czarnawy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 czarnoiskry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=478&highlight=3953,4785,569,73; [*CZARNOISKRY,];*~,
 czarnopióry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=479&highlight=942,4509,771,104; [CZARNOPIÓRY, .a, e,];.a, e,
 czarownik ziele;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=1927,1544,325,55; [Czarownik ziele ob.];⟦Czarownik ziele⟧ ob.
-czarownik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=1927,1544,325,55; [Czarownik ziele ob.];ziele ob.
 czarownik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=1927,1544,325,55; [Czarownik ziele ob.];⟦Czarownik ziele⟧ ob.
 czarowny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=1089,1464,1022,55; [CZAROWNY ob. Czarowniczy.];ob. Czarowniczy.
 czarstwo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=202,1293,973,67; [*CZARSTWO ob. CARSTWO.];*~ ob. CARSTWO.
@@ -741,9 +729,9 @@ czernieć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 czerniusieńki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=479&highlight=3414,4521,557,74; [CZERNIUSIEŃKI];
 czerniuśki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=479&highlight=2907,4533,416,49; [CZERNIUŚKI];
 czerpacha;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=496&highlight=1548,1495,600,61; [*CZERPACHA ob.];*~ ob.
-czerstwosc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=496&highlight=3060,1770,826,56; [CZERSTWOSC, ści, ż.];ści, ż.
-czerwic;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=497&highlight=3170,2340,960,68; [CZERWIC się zaim. niedk.,];się zaim. niedk.,
-czerwic;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=497&highlight=3500,2861,704,67; [CZERWIC cz. niedk.,];cz. niedk.,
+czerstwość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=496&highlight=3060,1770,826,56;[CZERSTWOSC, ści, ż.];, ści, ż.
+czerwić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=497&highlight=3170,2340,960,68;[CZERWIC się zaim. niedk.,];się zaim. niedk.,
+czerwić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=497&highlight=3500,2861,704,67;[CZERWIC cz. niedk.,];cz. niedk.,
 czerwiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=497&highlight=2472,3565,361,68; [CZERWIEC];
 czerwieniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=498&highlight=1358,1581,1059,73; [1 CZERWIENIEC, ieńca, m.];1. ~, ieńca, m.
 czerwieniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=498&highlight=1768,1409,637,55; [2. CZERWIENIEC,];2. ~,
@@ -758,7 +746,7 @@ czerń;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=49
 czesny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=502&highlight=2470,3534,647,114; [2 . CZESNY, a, e,];2. ~, a, e,
 czestne;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=502&highlight=2482,1818,1439,90; [CZESTNY, CZESTNE ob. Czesny, Czesne.];ob. Czesny, Czesne.
 czestny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=502&highlight=2482,1818,1439,90; [CZESTNY, CZESTNE ob. Czesny, Czesne.];ob. Czesny, Czesne.
-cześć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=500&highlight=2503,4313,501,73; [CZEŚĆ, cześci];cześci
+cześć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=500&highlight=2503,4313,501,73;[CZEŚĆ, cześci];, cześci
 czkawka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=2440,4956,893,54; [CZKAWKA ob. Szczkawka.];ob. Szczkawka.
 czoboty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=2314,4686,797,66; [CZOBOTY ob. Choboty.];ob. Choboty.
 czochać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=3135,4686,1019,66; [CZOCHAĆ się ob. Czechać się.];się ob. Czechać się.
@@ -771,7 +759,7 @@ czosac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=51
 czosnek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=512&highlight=623,5388,558,78; [CZOSNEK, snku,];snku,
 czosnkowac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=512&highlight=1481,1992,899,60; [CZOSNKOWAC cz. niedok,];cz. niedok,
 czostka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=512&highlight=2446,5646,791,84; [*CZOSTKA ob. Czestka];*~ ob. Czestka
-czołeczko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=2332,3546,1175,60; [CZOŁECZKO, CZOŁEM ob. Czoło.];CZOŁEM ob. Czoło.
+czołeczko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=2332,3546,1175,60;[CZOŁECZKO, CZOŁEM ob. Czoło.];, CZOŁEM ob. Czoło.
 czołeczko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=508&highlight=2818,5466,443,60; [CZOŁECZKO];
 czołenek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=508&highlight=4065,2748,371,84; [CZOŁENEK];
 czołenko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=508&highlight=3633,2676,384,48; [CZOŁENKO];
@@ -799,7 +787,7 @@ czuło;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=51
 czwartkować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=520&highlight=881,4146,1157,60; [CZWARTKOWAĆ ob. Cwiartkować.];ob. Cwiartkować.
 czwartować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=520&highlight=689,2148,1115,72; [CZWARTOWAĆ ob. Ćwiertować.];ob. Ćwiertować.
 czwartynasty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=520&highlight=396,1032,1199,90; [*CZWARTYNASTY ob. Czternasty.];*~ ob. Czternasty.
-czwał;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=519&highlight=2332,3288,1067,78; [CZWAŁ, CZWAŁAĆ ob. Cwał.];CZWAŁAĆ ob. Cwał.
+czwał;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=519&highlight=2332,3288,1067,78;[CZWAŁ, CZWAŁAĆ ob. Cwał.];, CZWAŁAĆ ob. Cwał.
 czworletni;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=522&highlight=498,4410,479,72; [CZWORLETNI];
 czworodziury;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=521&highlight=1619,1356,617,60; [CZWORODZIURY,];
 czworonaście;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=513&highlight=1169,3882,785,54; [*CZWORONAŚCIE, stu,];*~, stu,
@@ -812,8 +800,8 @@ czy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&h
 czym;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&highlight=4131,2688,215,72; [CZYM];
 czymbury;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&highlight=2284,2250,893,66; [CZYMBURY ob. Cymbury.];ob. Cymbury.
 czymsik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&highlight=3213,2256,1121,72; [CZYMSIK, CZYMSIS ob. Co, Coś.];ob. Co, Coś.
-czymsis;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&highlight=3213,2256,1121,72; [CZYMSIK, CZYMSIS ob. Co, Coś.];ob. Co, Coś.
-czynac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=474&highlight=618,2659,551,86; [*CZYNAC obsol.];*~ obsol.
+czymsiś;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=523&highlight=3213,2256,1121,72;[CZYMSIK, CZYMSIS ob. Co, Coś.];ob. Co, Coś.
+czynać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=474&highlight=618,2659,551,86;[*CZYNAC obsol.];*~ obsol.
 czyniwać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=526&highlight=3678,2610,838,79; [CZYNIWAĆ ob. Czyniać.];ob. Czyniać.
 czynić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=526&highlight=917,1320,708,78; [CZYNIĆ się zaimk.];się zaimk.
 czyrpacz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=496&highlight=1291,1397,692,79; [CZYRPACZ, a, m.];a, m.
@@ -825,7 +813,7 @@ czystszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 czyszczę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=530&highlight=477,4313,349,98; [CZYSZCZĘ];
 czytacz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=530&highlight=2962,4141,397,92; [*CZYTACZ];*~
 czytaniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=530&highlight=3414,4141,472,86; [*CZYTANIEC,];*~,
-czyzm., u, m.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=445&highlight=2760,2095,520,98; [CZYZM., u, m.,];
+czyżm., u, m.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=445&highlight=2760,2095,520,98;[CZYZM., u, m.,];
 czyściejszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=529&highlight=1793,2144,459,86; [CZYŚCIEJSZY];
 czyścioch;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=528&highlight=3396,1544,710,79; [CZYŚCIOCH, a, m.];a, m.
 czyść;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=527&highlight=3335,2438,716,68; [CZYŚĆ ob. Czcić 2).];ob. Czcić 2).
@@ -835,8 +823,8 @@ częstszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 częściejszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=1319,3660,455,66; [CZĘŚCIEJSZY];
 człap;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=3357,4956,618,60; [CZŁAP ob. Szłap.];ob. Szłap.
 człek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=3699,3480,749,66; [CZŁEK ob. Człowiek];ob. Człowiek
-człekobog;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=2506,3402,1079,60; [CZŁEKOBOG ob. Człowiekobog];ob. Człowiekobog
-człekobog;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=1577,3642,425,42; [CZŁEKOBOG];
+człekobóg;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=506&highlight=2506,3402,1079,60;[CZŁEKOBOG ob. Człowiekobog];ob. Człowiekobog
+człekobóg;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=1577,3642,425,42;[CZŁEKOBOG];
 człowieczu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=503&highlight=3477,2118,486,66; [po człowieczu];⟦po człowieczu⟧
 człowiekolubny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=507&highlight=1721,1866,551,66; [CZŁOWIEKOLU­BNY];
 cębrowac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=356&highlight=3133,2205,869,74; [CĘBROWAC czyn. nied.,];czyn. nied.,
@@ -845,14 +833,12 @@ da da da;http://djvu.szukajwslownikach.uw.edu.pl/linde-t/01/index.djvu?djvuopts&
 da;http://djvu.szukajwslownikach.uw.edu.pl/linde-t/01/index.djvu?djvuopts&page=531&zoom=width&showposition=0.256,0.404&highlight=240,2460,395,90; [DA DA DA];⟦DA DA DA⟧
 da;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=531&highlight=202,3241,306,110; [2. *DA!];2. *~!
 da;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=531&zoom=width&showposition=0.256,0.404&highlight=192,3594,288,120; [1. DA!];1. ~!
-da;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=531&zoom=width&showposition=0.256,0.404&highlight=204,3252,270,90; [2. DA];2. ~
-dabmozwad;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=544&highlight=1193,5422,1034,92; [DABMOZWAD ob. Darmoswar.];ob. Darmoswar.
+darmozwad;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=544&highlight=1193,5422,1034,92;[DABMOZWAD ob. Darmoswar.];ob. Darmoswar.
 daj;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=537&highlight=2276,1525,465,74; [DAJ ob. Dać.];ob. Dać.
 daję;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=537&highlight=2264,1182,520,68; [DAJĘ ob. Dać.];ob. Dać.
 dalece;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=538&highlight=3249,2910,765,73; [DALECE adv. oppos.];adv. oppos.
 dalej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=539&highlight=1566,2745,576,67; [DALEJ Compar.,];Compar.,
 dalszy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=540&highlight=2215,5066,214,111; [DAL­SZY ob.];ob.
-damula;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=540&highlight=2466,4901,649,92; [2. DAMULA, i, ż.];2. ~, i, ż.
 daniel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=541&highlight=220,4846,667,86; [2. DANIEL, a, m.];2. ~, a, m.
 danin, Duńczyk ob. Dania.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=541&highlight=220,4062,961,79; [*DANIN, Duńczyk ob. Dania.];*~
 danina;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=540&highlight=3414,2726,306,86; [DANINA,];
@@ -868,7 +854,6 @@ daruję;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=5
 dary;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=545&highlight=2998,5183,545,61; [DARY ob. Dar.];ob. Dar.
 darznąć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=545&highlight=3555,5183,820,92; [*DARZNĄĆ nijak. jednt.,];*~ nijak. jednt.,
 darzyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=545&highlight=3439,1838,477,104; [DARZYĆ się];się
-darzyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=545&highlight=3445,1862,490,92; [DARZYĆ się];się
 daszka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=546&highlight=337,2383,318,98; [DASZKA,];
 dawać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=547&highlight=2374,5532,698,67; [DAWAĆ się recipr.];się recipr.
 dawać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=547&highlight=3145,5605,1193,98; [DAWAĆ się pass., ob. Dawać, dać];się pass., ob. Dawać, dać
@@ -877,14 +862,14 @@ dawniej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=5
 daćbog;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=537&highlight=190,5171,789,85; [DAĆBOG ob. Dadzibóg.];ob. Dadzibóg.
 dałoman;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=540&highlight=379,5342,833,67;ob [DAŁOMAN ok. Dołoman.];ok. Dołoman.
 dażka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=546&highlight=722,2414,1114,61; [DAŻKA, i, ż. zdrbn, rzeczown,];i, ż. zdrbn, rzeczown,
-dbachma;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=657&highlight=2692,1501,600,37; [DBACHMA, y, ż.];y, ż.
+drachma;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=657&highlight=2692,1501,600,37;[DBACHMA, y, ż.];, y, ż.
 debosz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=550&highlight=3537,5017,722,98; [2. DEBOSZ, a, m.];2. ~, a, m.
-debra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=555&highlight=532,2665,490,80; [DEBRA, i, ż.];i, ż.
+debka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=555&highlight=532,2665,490,80;[DEBRA, i, ż.];i, ż.
 deka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=552&highlight=300,1819,385,74; [2. DEKA,];2. ~,
 delektowac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=553&highlight=1108,4043,887,74; [DELEKTOWAC się zaimk.];się zaimk.
 delfin;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=553&highlight=177,2800,655,92; [2. DELFIN, a, m.];2. ~, a, m.
 dembel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=554&highlight=367,766,1463,79; [*DEMBEL, bla, m. DEMBIEC ob. Dębiec.];*~ , bla, m. DEMBIEC ob. Dębiec.
-dembiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=550&highlight=698,4668,679,74; [DEMBIEC, bca, m..];bca, m..
+dembiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=550&highlight=698,4668,679,74;[DEMBIEC, bca, m..];, bca, m..
 dembiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=554&highlight=367,766,1463,79; [*DEMBEL, bla, m. DEMBIEC ob. Dębiec.];*~  ob. Dębiec.
 demesz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=554&highlight=2448,5618,306,98; [DEMESZ,];
 demiesz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=554&highlight=2803,5624,581,79; [DEMIESZ, a, m.];a, m.
@@ -907,7 +892,7 @@ dmę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=567&
 dni;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=568&highlight=330,5183,747,104; [DNIA, DNI ob. Dzień.];ob. Dzień.
 dnia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=568&highlight=330,5183,747,104; [DNIA, DNI ob. Dzień.];ob. Dzień.
 dny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=569&highlight=214,4478,526,74; [DNY ob. Dzień.];ob. Dzień.
-dobabiać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=626&highlight=3121,5514,899,85; [2. DOBABIAĆ się, czego];2. ~ się, czego
+dorabiać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=626&highlight=3121,5514,899,85;[2. DOBABIAĆ się, czego];2. ~ się, czego
 dobierac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=574&highlight=2962,1893,917,86; [DOBIERAC się verb. med.,];się verb. med.,
 dobierać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=574&highlight=1701,1391,520,67; [dobierać kont.,];kont.,
 dobijać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=573&highlight=2331,3731,667,67; [DOBIJAĆ ob. Dobić.];ob. Dobić.
@@ -988,7 +973,7 @@ dordzeć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 doroczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=626&highlight=2472,3909,398,42; [DOROCZNY];
 dorwać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=627&highlight=2974,1299,783,67; [DORWAĆ się czego,];się czego,
 dorączu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=625&highlight=2319,4919,1028,49; [na DORĄCZU ob. na Doręczu.];⟦na DORĄCZU⟧ ob. na Doręczu.
-dosia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=630&highlight=324,4846,618,49; [DOSIA ob. Dorota];ob. Dorota
+Dosia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=630&highlight=324,4846,618,49;[DOSIA ob. Dorota];ob. Dorota
 dosiedzieć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=630&highlight=2423,3376,930,61; [DOSIEDZIEĆ nijak. niedok.,];nijak. niedok.,
 dosieść;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=630&highlight=3212,5042,294,55; [DOSIEŚĆ];
 dostany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=635&highlight=1542,876,728,37; [DOSTANY ob. Dostać.];ob. Dostać.
@@ -998,7 +983,7 @@ dostateczek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pa
 dostawa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=637&highlight=300,5042,544,49; [DOSTAWA, y, ż.];y, ż.
 dosuży;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=638&highlight=3653,2187,330,80; [*DOSUŻY,];*~,
 dosycić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=1163,5465,581,61; [DOSYCIĆ cz. ndk.,];cz. ndk.,
-dosyt;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=208,2077,490,43; [DOSYT, u, m.];u, m.
+dosyt;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=208,2077,490,43;[DOSYT, u, m.];, u, m.
 doszedł;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2331,4944,2093,147; [DOSZEDŁ, DOSZŁA, DOSZŁY, DOSZŁOŚĆ, *DOSZTO, ob. Dójść.];ob. Dójść.
 doszto;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2301,3198,710,61; [*DOSZTO ob. Dojść.];*~ ob. Dojść.
 doszto;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2331,4944,2093,147; [DOSZEDŁ, DOSZŁA, DOSZŁY, DOSZŁOŚĆ, *DOSZTO, ob. Dójść.];*~ , ob. Dójść.
@@ -1007,7 +992,7 @@ doszłość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pa
 doszłość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2331,4944,2093,147; [DOSZEDŁ, DOSZŁA, DOSZŁY, DOSZŁOŚĆ, *DOSZTO, ob. Dójść.];ob. Dójść.
 doszły;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2313,4245,1108,62; [DOSZŁY, DOSZŁOŚĆ ob. Dójść.];ob. Dójść.
 doszły;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=641&highlight=2331,4944,2093,147; [DOSZEDŁ, DOSZŁA, DOSZŁY, DOSZŁOŚĆ, *DOSZTO, ob. Dójść.];ob. Dójść.
-dosądzić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=629&highlight=269,1133,594,80; [DOSĄDZIĆ cz.. dk.,];cz.. dk.,
+dosądzić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=629&highlight=269,1133,594,80;[DOSĄDZIĆ cz.. dk.,];cz. dk.,
 doterać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=647&highlight=636,3731,637,67; [DOTERAĆ cz. dok.];cz. dok.
 dotkac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=642&highlight=373,2843,692,79; [2.) DOTKAC cz.. dk.,];2.) ~ cz. dk.,
 dotkać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=642&highlight=1089,1991,496,49; [3.) DOTKAĆ];3.) ~
@@ -1035,7 +1020,7 @@ dołomić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 dołowić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=608&highlight=4265,2763,263,86; [DOŁO­WIĆ się];się
 dołęstwo,a, n.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=607&highlight=1444,1648,649,73; [DOŁĘSTWO,a, n.];
 dośmiewać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=632&highlight=2448,784,813,74; [DOŚMIEWAĆ się zaimk.,];się zaimk.,
-doświadczyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=639&highlight=3078,2346,691,62; [DOŚWIADCZYĆ SIĘ];SIĘ
+doświadczyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=639&highlight=3078,2346,691,62;[DOŚWIADCZYĆ SIĘ];się
 dość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=640&highlight=710,4000,355,68; [DOŚĆ adv.];adv.
 doźdrzeć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=596&highlight=1279,2696,459,61; [*DOŹDRZEĆ];*~
 dożenie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=653&highlight=3145,2359,1261,61; [DOŻONĄC, DOŻENIE ob. Dognać.];ob. Dognać.
@@ -1048,11 +1033,11 @@ draki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=658
 drapaczka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=658&highlight=3537,2457,703,49; [DRAPACZKA, i, ż.];i, ż.
 drapaka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=658&highlight=3359,1838,576,61; [DRAPAKA dać,];dać,
 drdzeń;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=677&highlight=2625,2457,275,42; [DRDZEŃ,];
-drel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2613,4595,416,55; [DREL, u, m.];u, m.
+drel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2613,4595,416,55;[DREL, u, m.];, u, m.
 drelowac;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2405,3988,685,49; [DRELOWAC cz. nd.,];cz. nd.,
 drelownik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=3653,4589,716,55; [DRELOWNIK, a, m.];a, m.
 drendulka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2723,3523,649,98; [DRENDULKA, i, ż.];i, ż.
-drewlanie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=662&highlight=1652,3749,753,61; [DREWLANIE liczb. mn.];liczb. mn.
+Drewlanie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=662&highlight=1652,3749,753,61;[DREWLANIE liczb. mn.];liczb. mn.
 drewutnia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2870,2769,532,49; [[DREWUTNIA. 3]];[~. 3]
 drez;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=663&highlight=251,5042,612,43; [DREZ ob. Dreszcz.];ob. Dreszcz.
 drgubica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=671&highlight=1830,1740,403,49; [*DRGUBICA,];*~,
@@ -1062,17 +1047,17 @@ drobki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=66
 drocz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=665&highlight=2270,2671,710,74; [DROCZ ob. Dreszcz.];ob. Dreszcz.
 dromla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=667&highlight=3641,815,685,55; [DROMLA ob. Dremla];ob. Dremla
 droszcz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=668&highlight=373,4092,771,55; [DROSZCZ ob. Dreszcz.];ob. Dreszcz.
-droźę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=239,5661,636,55; [DROŹĘ ob. Drożyć.];ob. Drożyć.
+drożę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=239,5661,636,55;[DROŹĘ ob. Drożyć.];ob. Drożyć.
 droższy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=226,2365,502,79; [DROŻSZY, a, e];a, e
 drożyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=2313,3927,569,49; [DROŻYNA, y, ż.];y, ż.
 drożysty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=2301,2971,722,49; [2. DROŻYSTY, a, e,];2. ~, a, e,
 druch;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=671&highlight=2588,5311,502,43; [DRUCH, a, m.];a, m.
 drudzy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=669&highlight=2325,1507,1120,49; [DRUDZY nom. plur. masc.];nom. plur. masc.
-drugi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=670&highlight=465,4105,453,67; [DRUGI, a, ie];a, ie
-druk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=671&highlight=2289,1826,483,61; [DRUK, u, m.];u, m.
-drumla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=672&highlight=2460,2787,1034,74; [DRUMLA, Dromla ob. Dremla.];Dromla ob. Dremla.
-druzyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=3733,4950,648,67; [2. DRUZYNA Herb,];2. ~ Herb,
-drużyc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=220,2273,808,49; [2. DRUŻYC ob. Dróżyć.];2. ~ ob. Dróżyć.
+drugi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=670&highlight=465,4105,453,67;[DRUGI, a, ie];, a, ie
+druk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=671&highlight=2289,1826,483,61;[DRUK, u, m.];, u, m.
+drumla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=672&highlight=2460,2787,1034,74;[DRUMLA, Dromla ob. Dremla.];, Dromla ob. Dremla.
+drużyna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=3733,4950,648,67;[2. DRUZYNA Herb,];2. ~ Herb,
+drużyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=220,2273,808,49;[2. DRUŻYC ob. Dróżyć.];2. ~ ob. Dróżyć.
 drwalnik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=674&highlight=1108,3302,764,55; [DRWALNIK ob. Drwal.];ob. Drwal.
 drwiarz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=674&highlight=3616,4527,563,37; [DRWIARZ, a, m.];a, m.
 dryga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=674&highlight=2441,876,472,67; [DRYGA, i, ż.];i, ż.
@@ -1089,7 +1074,7 @@ drzewczyk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 drzewiany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=662&highlight=3800,5544,716,80; [*DRZEWIANY, a, e,];*~, a, e,
 drzewiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=678&highlight=1083,3480,814,85; [*DRZEWIEC, wca, m.];*~, wca, m.
 drześć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=678&highlight=379,3578,973,55; [DRZEŚĆ ob. Dreszcz, Drocz.];ob. Dreszcz, Drocz.
-drzączka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2827,1048,392,49; [DRZĄCZKA];
+drżączka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2827,1048,392,49;[DRZĄCZKA];
 dróciany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=668&highlight=2564,5648,618,62; [DRÓCIANY, a, e,];a, e,
 drócik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=665&highlight=3249,2849,869,73; [DRÓCIK, a, m., Dimin];a, m., Dimin
 drący;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=657&highlight=251,5385,587,55; [DRĄCY ob. Drzeć.];ob. Drzeć.
@@ -1097,8 +1082,8 @@ drążek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=
 drążyciel;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=660&highlight=2466,2953,1646,73; [DRĄŻYĆ, DRĄŻYCIEL, DRĄŻYDŁO ob. Drożyć,];ob. Drożyć,
 drążydło;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=660&highlight=2466,2953,1646,73; [DRĄŻYĆ, DRĄŻYCIEL, DRĄŻYDŁO ob. Drożyć,];ob. Drożyć,
 drążyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=660&highlight=2466,2953,1646,73; [DRĄŻYĆ, DRĄŻYCIEL, DRĄŻYDŁO ob. Drożyć,];ob. Drożyć,
-drę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=660&highlight=2539,2787,820,56; [DRĘ, drzesz ob. Drzéć.];drzesz ob. Drzéć.
-drętwik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2490,4674,1163,86; [Dryjawnik, ryba, DRĘTWIK. Tr.];Dryjawnik, ryba, 
+drę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=660&highlight=2539,2787,820,56;[DRĘ, drzesz ob. Drzéć.];, drzesz ob. Drzéć.
+drętwik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=675&highlight=2490,4674,1163,86;[Dryjawnik, ryba, DRĘTWIK. Tr.];Dryjawnik, ryba, ~
 dubelt;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=681&highlight=3714,1660,300,61; [DUBELT,];
 dubiec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=550&highlight=2301,4754,147,92; [DU­BIEC];
 dubla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=682&highlight=416,4417,1463,55; [DUBLA, DUBLET, DUBLOWKA ob. Dupla.];ob. Dupla.
@@ -1109,18 +1094,15 @@ duda;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=684&
 dudki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=685&highlight=1989,3308,269,43; [DUDKI,];
 dudy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=684&highlight=1089,1728,220,73; [DUDY,];
 dulicz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=686&highlight=373,1654,465,55; [DULICZ herb,];herb,
-duniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=688&highlight=379,4399,637,73; [DUNIEC, ńca, m.];ńca, m.
+Duniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=688&highlight=379,4399,637,73;[DUNIEC, ńca, m.];, ńca, m.
 duszejka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=692&highlight=2258,4748,159,73; [DU­SZEJKA];
 duszewny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=692&highlight=2521,4313,698,86; [*DUSZEWNY, a, e,];*~, a, e,
 duszkoż;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=692&highlight=1713,4319,471,67; [DUSZKOŻ go];go
 duszny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=692&highlight=4185,4417,300,61; [DUSZNY,];
-duszokaźny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=1071,5532,801,104; [*DUSZOKAŻNY, a, e,];*~, a, e,
 duszokaźny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=1108,5550,740,104; [*DUSZOKAŹNY, a, e,];*~, a, e,
 duszę;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=691&highlight=3066,4497,581,61; [DUSZĘ ob. Dusić.];ob. Dusić.
-dutepasy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=184,2187,660,80; [*DUTEPASY, n. p..];*~, n. p..
 dutepasy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=196,2175,636,92; [*DUTEPASY, n. p.];*~, n. p.
-dużność;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=3537,4858,716,74; [DUŻNOŚĆ, ści., ż.,];ści., ż.,
-dużność;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=3549,4864,698,55; [DUŻNOŚĆ, ści., ż.,];ści., ż.,
+dużność;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=693&highlight=3537,4858,716,74;[DUŻNOŚĆ, ści., ż.,];, ści, ż.,
 dwanaściory;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=695&highlight=551,1446,587,18; [DWANAŚCIORY];
 dwociały;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=702&highlight=3818,2787,392,31; [DWOCIAŁY,];
 dwocielny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=702&highlight=4283,2787,227,37; [DWO­CIELNY];
@@ -1128,11 +1110,9 @@ dwoczoły;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 dwoczęstny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=702&highlight=2747,1826,722,30; [DWOCZĘSTNY, a, e];a, e
 dwogranisty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=2808,5376,718,26; [DWOGRANISTY, a, e];a, e
 dwogłowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=288,1048,465,30; [DWOGŁOWY];
-dwojdłonny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=702&highlight=3323,974,777,25; [DWOJDŁONNY, a, e];a, e
-dwojgo ;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=2582,2340,1463,37; [DWOJKO, Dwojgo ob. Dwoje, Gen. dwojga.];ob. Dwoje, Gen. dwojga.
+dwójdłonny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=702&highlight=3323,974,777,25;[DWOJDŁONNY, a, e];, a, e
 dwojgo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=2582,2340,1463,37; [DWOJKO, Dwojgo ob. Dwoje, Gen. dwojga.];ob. Dwoje, Gen. dwojga.
 dwojgo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=3387,5463,670,33; [*DWOJGO ob. Dwoje];*~ ob. Dwoje
-dwojko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=2582,2340,1463,37; [DWOJKO, Dwojgo ob. Dwoje, Gen. dwojga.];ob. Dwoje, Gen. dwojga.
 dwojko;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=697&highlight=2582,2340,1463,37; [DWOJKO, Dwojgo ob. Dwoje, Gen. dwojga.];ob. Dwoje, Gen. dwojga.
 dwojmorski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=704&highlight=1628,3474,501,24; [DWOJMORSKI];
 dwopióry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=698&highlight=2533,5642,624,43; [DWOPIÓRY, a, e ,];a, e ,
@@ -1149,7 +1129,7 @@ dwupiętry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pag
 dwuskrzydelny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=705&highlight=4155,5385,232,129; [DWU­SKRZYDELNY];
 dwustopny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=705&highlight=3671,3572,667,42; [DWUSTOPNY, a, e,];a, e,
 dwuuchy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=705&highlight=3592,1323,514,37; [DWUUCHY ob.];ob.
-dwuząb;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=706&highlight=942,4607,680,43; [DWUZĄB, ęba, m.];ęba, m.
+dwuząb;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=706&highlight=942,4607,680,43;[DWUZĄB, ęba, m.];, ęba, m.
 dwużęniec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=706&highlight=2191,4245,220,62; [DWU­ŻĘNIEC];
 dwójkurny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=705&highlight=2001,2885,245,25; [DWÓJ­KURNY];
 dwójnasób;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=698&highlight=453,5642,593,43; [we DWÓJNASÓB];⟦we DWÓJNASÓB⟧
@@ -1160,7 +1140,7 @@ dyarya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=70
 dych;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=710&highlight=355,4509,630,37; [2) *DYCH, u,];2) *~, u,
 dycht;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=710&highlight=3041,2855,386,43; [2) DYCHT];2) ~
 dycht;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=710&highlight=3720,3124,263,25; [DYCHT];
-dygiestya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=711&highlight=1108,4233,697,43; [DYGIESTYA, yi, ż.,];yi, ż.,
+dygiestya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=711&highlight=1108,4233,697,43;[DYGIESTYA, yi, ż.,];, yi, ż.,
 dykt;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=711&highlight=2325,1985,588,37; [*DYKT ob. Dycht.];*~ ob. Dycht.
 dymik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=714&highlight=1817,5213,251,43; [DYMIK,];
 dymionne,;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=713&highlight=3775,2132,563,31; [DYMIONNE ziele,];⟦DYMIONNE ziele⟧
@@ -1178,9 +1158,9 @@ dział;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=72
 działany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=722&highlight=2784,2352,1095,37; [DZIAŁANY, a, e, partic. perf.];a, e, partic. perf.
 dzieci;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=725&highlight=2307,5501,636,43; [DZIECI ob. Dziecię.];ob. Dziecię.
 dzieci;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=725&highlight=2497,3327,440,36; [plur. DZIECI];plur.  ~
-dziecki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=728&highlight=465,5526,875,30; [DZIECKI, iego, m. Subst,];iego, m. Subst,
-dzieczyzną;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=728&highlight=441,1348,709,49; [*DZIECZYZNĄ y, ż.];*~ y, ż.
-dziejopisarski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=2778,4895,832,30; [DZIEJOPISARSKI, a, ie,];a, ie,
+dziecki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=728&highlight=465,5526,875,30;[DZIECKI, iego, m. Subst,];, iego, m. Subst,
+dzieczyzna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=728&highlight=441,1348,709,49;[*DZIECZYZNĄ y, ż.];*~ y, ż.
+dziejopisarski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=2778,4895,832,30;[DZIEJOPISARSKI, a, ie,];, a, ie,
 dziekciowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=771,5587,685,55; [*DZIEKCIOWY, a, e];*~, a, e
 dziel,;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=731&highlight=2307,3002,716,30;*DZIEL — *DZIEL adv.,;*⟦DZIEL — DZIEL⟧ adv.
 dzielczy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=731&highlight=2864,1789,612,30; [DZIELCZY, a, e,];a, e,
@@ -1191,17 +1171,17 @@ dzielny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=7
 dzielny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=733&highlight=300,3063,642,43; [2. DZIELNY, a, e,];2. ~, a, e,
 dzier;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=746&highlight=973,3149,532,37; [DZIER, u, m.];u, m.
 dziery;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=746&highlight=434,3069,276,19; [DZIERY];
-dzierżec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=738&highlight=441,1942,728,86; [DZIERŻEC się recipr.];się recipr.
-dziesiątnictwo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=471,2947,863,30; [DZIESIĄTNICTWO, a, n.];a, n.
-dziesiątny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=300,1636,661,43; [DZIESIĄTNY, a, e,];a, e,
-dziesięciory;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=740&highlight=2533,4411,839,37; [DZIESIĘCIORY a, e,];a, e,
-dziesięć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=3831,4595,538,24; [DZIESIĘĆ, ięci];ięci
+dzierżeć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=738&highlight=441,1942,728,86;[DZIERŻEC się recipr.];się recipr.
+dziesiątnictwo;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=471,2947,863,30;[DZIESIĄTNICTWO, a, n.];, a, n.
+dziesiątny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=300,1636,661,43;[DZIESIĄTNY, a, e,];, a, e,
+dziesięciory;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=740&highlight=2533,4411,839,37;[DZIESIĘCIORY a, e,];, a, e,
+dziesięć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=739&highlight=3831,4595,538,24;[DZIESIĘĆ, ięci];, ięci
 dziewanna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=741&highlight=973,5581,593,31; [2. DZIEWANNA];2. ~
 dziewczy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=741&highlight=2025,2953,196,30; [DZIE­WCZY];
 dziewiosił;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=330,5379,625,43; [DZIEWIOSIŁ, a, m.];a, m.
 dziewiosił;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=3806,3731,624,129; [DZIEWIOSIŁ ob.];ob.
 dziewięcióry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=742&highlight=4002,2205,520,31;[*DZIEWIĘCIÓ­RY];*~
-dziewiętnasty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=912,1048,838,30; [DZIEWIĘTNASTY, a, e];a, e
+dziewiętnasty;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=912,1048,838,30;[DZIEWIĘTNASTY, a, e];, a, e
 dziewiętoletni;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=2417,3768,1242,85; [DZIEWIĘTOLETNI lob. Dziewięćletni];lob. Dziewięćletni
 dziewięćsił;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=743&highlight=1781,5489,465,37; [DZIEWIĘĆSIŁ];
 dziewosłębić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=744&highlight=1817,1819,551,49; [DZIEWOSŁĘBIĆ];
@@ -1224,7 +1204,7 @@ dzióbać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 dziór;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=746&highlight=655,3143,251,55; [DZIÓR,];
 dzióra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=746&highlight=349,2794,1236,24; [DZIÓRA, DZIÓRKOWAĆ ob. Dziura.];ob. Dziura.
 dziórkować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=746&highlight=349,2794,1236,24; [DZIÓRA, DZIÓRKOWAĆ ob. Dziura.];ob. Dziura.
-dzięgna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=971,3953,278,10;??? [DZIĘGNA];
+dzięgna;file:///home/jsbien/cacheLinde/1/index.djvu?djvuopts&page=730&highlight=966,3929,284,67;??? [DZIĘGNA];
 dzięk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=2460,4221,226,18; [DZIĘK!];~!
 dzięk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=730&highlight=2925,3761,373,43; [*DZIĘK, u ,];*~, u ,
 dzięk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=731&highlight=1603,4043,618,37; [*DZIĘK ob. Wdzięk.];*~ ob. Wdzięk.
@@ -1233,10 +1213,10 @@ dziękowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pa
 dzięsięćmiesięczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=740&highlight=2576,3614,1652,43; [DZIĘSIĘĆMIESIĘCZNY ob. Dziesięciomiesięczny];ob. Dziesięciomiesięczny
 dziło;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=745&highlight=3182,4674,667,43; [*DZIŁO ob. Dzieło.];*~ ob. Dzieło.
 dzwignąć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=753&highlight=294,3118,789,31; [DZWIGNĄĆ się, zaimk.];się, zaimk.
-dzwonek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=1071,1090,697,37; [DZWONEK, nka, m.];nka, m.
+dzwonek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=1071,1090,697,37;[DZWONEK, nka, m.];, nka, m.
 dzwonica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=875,2732,392,37; [DZWONICA];
-dzwoniczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=1150,1519,704,55; [DZWONICZNY, a, e];a, e
-dzwonki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=2380,3259,857,37; [DZWONKI, ów, plur.,];ów, plur.,
+dzwoniczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=1150,1519,704,55;[DZWONICZNY, a, e];, a, e
+dzwonki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=2380,3259,857,37;[DZWONKI, ów, plur.,];, ów, plur.,
 dzwonnica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=2386,1862,924,43; [DZWONNICA ob. Dzwonica.];ob. Dzwonica.
 dzwonnik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=755&highlight=3396,1862,949,37; [DZWONNIK ob. Dzwoniarz.];ob. Dzwoniarz.
 dzwonyszek;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=756&highlight=2803,5195,1480,25; [DZWONYSZEK ob. Dzwonek, Dzwoneczek.];ob. Dzwonek, Dzwoneczek.
@@ -1244,22 +1224,22 @@ dójście;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 dążyc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=549&highlight=214,4062,741,73; [DĄZYC nijak. kontyn.,];nijak. kontyn.,
 dębić, ob. Dybić.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=550&highlight=349,5446,667,80; [*DĘBIĆ, ob. Dybić.];*~
 dłazic;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=561&highlight=196,2316,300,98; [*DŁAZIC];*~
-dłazyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=561&highlight=545,2310,758,91; [*DŁAZYĆ cz.. ndk.,];*~ cz.. ndk.,
+dłażyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=561&highlight=545,2310,758,91;[*DŁAZYĆ cz.. ndk.,];*~ cz.. ndk.,
 dłubać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=562&highlight=3806,5348,496,92; [DŁUBAĆ się];się
 dłuszcza;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=565&highlight=4167,2947,226,92; [DŁU­SZCZA];
 dłuzej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=453,4687,783,79; [DŁUZEJ Compar. adv.];Compar. adv.
 dłuznia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=1897,3988,514,74; [DŁUZNIA, i, ż.];i, ż.
 dłuzny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=3757,4766,673,86; [DŁUZNY ob. Dłużeń.];ob. Dłużeń.
-dłuzszosć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=2552,4674,765,80; [DŁUZSZOSĆ, ści, ż.];ści, ż.
-dłuzyc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=2533,3627,759,79; [2. DŁUZYC cz. nied/c..];2. ~ cz. nied/c..
-dłuzyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=3274,3376,960,67; [DŁUZYĆ się zaimk. niedok.,];się zaimk. niedok.,
+dłuzszość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=2552,4674,765,80;[DŁUZSZOSĆ, ści, ż.];, ści, ż.
+dłużyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=2533,3627,759,79;[2. DŁUZYC cz. niedk..];2. ~ cz. nied/c..
+dłużyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=3274,3376,960,67;[DŁUZYĆ się zaimk. niedok.,];się zaimk. niedok.,
 dłużec;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=1768,5213,637,80; [DŁUŻEC, żca, m.];żca, m.
 dłużnica;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=566&highlight=2117,3817,282,85; [1. DŁU­ŻNICA];1. ~
 dźga dźga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=2276,1844,508,67; [DŹGI! DŹGA!];⟦DŹGI! DŹGA!⟧
 dźga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=2276,1844,508,67; [DŹGI! DŹGA!];⟦DŹGI! DŹGA!⟧
-dźgi dźgi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=2276,1844,508,67; [DŹGI! DŹGA!];⟦DŹGI! DŹGA!⟧
+dźgi dźga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=2276,1844,508,67;[DŹGI! DŹGA!];⟦DŹGI! DŹGA!⟧
 dźgi;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=2276,1844,508,67; [DŹGI! DŹGA!];⟦DŹGI! DŹGA!⟧
-dżbło;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=208,3002,661,24; [DŻBŁO ob. Źdźbło.];ob. Źdźbło.
+dźbło;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=208,3002,661,24;[DŻBŁO ob. Źdźbło.];ob. Źdźbło.
 dżdży;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=3763,3510,582,43; [DŻDŻY imperson.];imperson.
 dżdży;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=4115,3348,240,26; [DŻDŻY się];się
 e;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=756&highlight=343,4209,24,36; [E];
@@ -1267,26 +1247,26 @@ efod;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=760&
 eks-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=758&highlight=343,5195,238,37; [EKS-];
 ekz-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=758&highlight=355,2665,214,43; [EKZ-];
 elbiągski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=758&highlight=446,1291,389,29; [*ELBIĄGSKI];*~
-emfiteuta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=760&highlight=1713,4674,661,62; [EMFITEUTA, y, m.,];y, m.,
+emfiteuta;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=760&highlight=1713,4674,661,62;[EMFITEUTA, y, m.,];, y, m.,
 endeburskie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=760&highlight=2435,5042,753,37; [ENDEBURSKIE wino];wino
 ephod;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=760&highlight=2411,778,1046,18; [*EPHOD EFOD ob. Humerał.];*~ ob. Humerał.
 es;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=761&highlight=2307,5171,361,61; [ES, a, m.,];a, m.,
-ewikcya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=214,3731,600,67; [EWIKCYA, yi, ż.];yi, ż.
-ewiktor;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=1401,3216,606,49; [EWIKTOR, a, m.];a, m.
+ewikcya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=214,3731,600,67;[EWIKCYA, yi, ż.];, yi, ż.
+ewiktor;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=1401,3216,606,49;[EWIKTOR, a, m.];, a, m.
 ex-;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=2295,5330,159,49; [EX-];
-excepcya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=2307,1832,642,43; [EXCEPCYA yi, ż.];yi, ż.
-exkrement;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=764&highlight=2460,2732,740,49; [EXKREMENT, u, m.];u, m.
-exkrementa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=764&highlight=3280,2751,1077,36; [EXKREMENTA, ów, liczb. mn.];ów, liczb. mn.
+excepcya;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=763&highlight=2307,1832,642,43;[EXCEPCYA yi, ż.];, yi, ż.
+exkrement;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=764&highlight=2460,2732,740,49;[EXKREMENT, u, m.];, u, m.
+exkrementa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=764&highlight=3280,2751,1077,36;[EXKREMENTA, ów, liczb. mn.];, ów, liczb. mn.
 f;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=766&highlight=355,5311,61,49; [F];
 fajlendysz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=769&highlight=1279,4687,753,42; [*FAJLENDYSZ u. m.];*~ u. m.
 falandysz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=769&highlight=220,4680,447,49; [*FALANDYSZ];*~
-falbiebz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=773&highlight=2686,2751,624,61; [*FALBIEBZ, a, m.,];*~, a, m.,
+falbierz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=773&highlight=2686,2751,624,61;[*FALBIEBZ, a, m.,];*~, a, m.,
 falbierz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=767&highlight=2301,1991,801,49; [FALBIERZ ob. Farbierz.];ob. Farbierz.
 fals;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=769&highlight=2325,3296,1340,55; [FALS, FALSOWAĆ ob. Falc, falcować.];ob. Falc, falcować.
 falsować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=769&highlight=2325,3296,1340,55; [FALS, FALSOWAĆ ob. Falc, falcować.];ob. Falc, falcować.
 faluję;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=770&highlight=2454,2352,728,31; [FALUJĘ ob. Falować.];ob. Falować.
 farfury;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=774&highlight=2454,3651,342,37; [FARFURY];
-farny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=774&highlight=3176,1127,465,31; [FARNY, a, e];a, e
+farny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=774&highlight=3176,1127,465,31;[FARNY, a, e];, a, e
 farski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=774&highlight=2460,1121,630,49; [2. FARSKI, a , ie];2. ~, a , ie
 faryna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=775&highlight=171,778,637,37; [3. FARYNA, y, ż.];3. ~, y, ż.
 faryna;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=775&highlight=220,2334,661,25; [2. FARYNA, y, ż.,];2. ~, y, ż.,
@@ -1308,7 +1288,7 @@ fiolet;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=78
 fizy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=786&highlight=1358,919,184,12; [FIZY];
 flaga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=787&highlight=208,3339,557,30; [2. FLAGA, i ż.];2. ~, i ż.
 flagma;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=788&highlight=765,2561,551,43; [*FLAGMA, y, ż.,];*~, y, ż.,
-flajtuch;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=788&highlight=2870,3768,697,30; [FLAJTUCH, u, m.];u, m.
+flajtuch;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=788&highlight=2870,3768,697,30;[FLAJTUCH, u, m.];, u, m.
 flak;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=787&highlight=196,2193,551,68; [1. FLAK, u, m.,];1. ~, u, m.,
 flancowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=787&highlight=2625,2548,1053,56; [FLANCOWANY, a, e, part. perf.];a, e, part. perf.
 flander;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=787&highlight=2240,2475,1309,31; [FLANDERKA, FLANDER, ob. Fląder];ob. Fląder
@@ -1316,25 +1296,24 @@ flanderka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page
 fliżanka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=789&highlight=2264,2757,857,30; [FLIŻANKA ob. Filiżanka.];ob. Filiżanka.
 flora;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=789&highlight=2258,2163,532,36; [2. FLORA, y, ż.];2. ~, y, ż.
 floresy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=789&highlight=2264,1225,796,31; [FLORESY, ów, plur.];ów, plur.
-floryzowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=790&highlight=942,3523,1194,24; [FLORYZOWANY, a, e, part.];a, e, part.
+floryzowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=790&highlight=942,3523,1194,24;[FLORYZOWANY, a, e, part.];, a, e, part.
 folarda;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=791&highlight=208,5477,587,30; [FOLARDA, y, ż.];y, ż.
 folga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=791&highlight=2289,4797,611,24; [3. FOLGA, i, ż,];3. ~, i, ż,
 folga;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=791&highlight=2289,5152,581,12; [2. FOLGA , i, ż.];2. ~ , i, ż.
 folia;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=404,3516,563,31; [FOLIA ob. Folga.];ob. Folga.
-folowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=997,2493,1120,19; [FOLOWANY, a, e, part. perf.];a, e, part. perf.
+folowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=997,2493,1120,19;[FOLOWANY, a, e, part. perf.];, a, e, part. perf.
 folwarczny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=2588,4895,508,37; [FOLWARCZNY];
-folwarkowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=3151,4889,1022,24; [FOLWARKOWY, ego, subst.];ego, subst.
-fomfry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=2484,1133,673,31; [FOMFRY, ów, plur.];ów, plur.
-fora;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=793&highlight=177,2971,349,31; [2. FORA!];2. ~!
+folwarkowy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=3151,4889,1022,24;[FOLWARKOWY, ego, subst.];, ego, subst.
+fomfry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=792&highlight=2484,1133,673,31;[FOMFRY, ów, plur.];, ów, plur.
 fora;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=793&highlight=184,2622,899,43; [3. FORA, y, ż., ob. Fura.];3. ~, y, ż., ob. Fura.
 formka;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=795&highlight=294,3314,967,31; [FORMKA zdrobn., ob. Forma.];zdrobn., ob. Forma.
-formowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=795&highlight=1083,1568,1169,80; [FORMOWANY, a, e, part. perf.];a, e, part. perf.
+formowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=795&highlight=1083,1568,1169,80;[FORMOWANY, a, e, part. perf.];, a, e, part. perf.
 forować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=795&highlight=4100,1611,238,19; [FORO­WAĆ się];się
 fort;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=796&highlight=2503,2261,293,49; [2. FORT];2. ~
 frandzla;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=801&highlight=239,3247,777,37; [FRANDZLA ob. Fręzla.];ob. Fręzla.
-frasowanie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=1903,4282,502,37; [FRASOWANIE SIĘ];SIĘ
+frasowanie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=1903,4282,502,37;[FRASOWANIE SIĘ];się
 frasowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=1927,3761,459,49; [FRASOWANY,];
-frasować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=459,5409,893,25; [FRASOWAĆ SIĘ, zaimk.,];SIĘ, zaimk.,
+frasować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=459,5409,893,25;[FRASOWAĆ SIĘ, zaimk.,];się, zaimk.,
 fraucmerny;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=803&highlight=1279,2622,661,49; [FRAUCMERNY, a, e,];a, e,
 frebra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=803&highlight=220,1850,643,31; [FREBRA ob. Febra];ob. Febra
 frej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=804&highlight=722,1844,490,49; [*FREJ , ju, m.,];*~ , ju, m.,
@@ -1345,7 +1324,6 @@ frotyerski;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&pag
 fryj;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=804&highlight=2833,5575,526,30; [2. FRYJ, yja, m.];2. ~, yja, m.
 fryje;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=804&highlight=1261,1850,538,43; [FRYJE, ów, plur,];ów, plur,
 fryor;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=805&highlight=233,1587,618,36; [FRYOR ob. Fryjor.];ob. Fryjor.
-fryz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=805&highlight=2313,1421,869,43; [2. FRYZ, FREZ, a, m.];2. ~, FREZ, a, m.
 fu na fu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=806&highlight=349,1329,655,37; [FU na FU ob. Fru.];⟦FU na FU⟧ ob. Fru.
 fu;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=806&highlight=349,1329,655,37; [FU na FU ob. Fru.];⟦FU na FU⟧ ob. Fru.
 funtazik;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=808&highlight=2888,3688,783,24; [FUNTAZIK ob. Fontaź];ob. Fontaź
@@ -1362,12 +1340,12 @@ fuzy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=810&
 fóra;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=808&highlight=2747,2561,429,43; [FÓRA. y, ż.];y, ż.
 góry;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=239&highlight=184,3565,1193,74; [BIESZCZADZKIE góry ob. Bieściad.];  ob. Bieściad.
 głowa;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=223&highlight=2325,4282,1096,104; [BIAŁA GŁOWA ob. Białogłowa.];⟦BIAŁA GŁOWA⟧ ob. Białogłowa.
-harkabuz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=845,1260,456,114; [HARKABUZ];
+harkabuz;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=158&highlight=845,1260,456,114;[HARKABUZ];*~
 hrapota;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=393&highlight=2074,1764,210,78; [HRA­POTA];
 i;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=736&highlight=465,4074,1438,43; [DZIEŃ I NOC, Melampyrum Nemorosum,];⟦DZIEŃ I NOC⟧, Melampyrum Nemorosum
 korał;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=388&highlight=771,3026,532,74; [KORAŁ, u, m.];u, m.
 koziogłow;http://korpusy.klf.uw.edu.pl/djvus/linde-t/02/index.djvu?djvuopts&page=481&highlight=2010,4125,244,55; [KOZIO­GŁOW];
-krzcić';http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=398&highlight=2833,1832,288,61; [KRZCIĆ',];
+krzcić;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=398&highlight=2833,1832,288,61;[KRZCIĆ',];
 krzyżmować;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=401&highlight=526,3884,930,61; [KRZYŻMOWAĆ, czyn. nied.,];czyn. nied.,
 ku cci;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=351&highlight=184,3137,856,116; [ku CCI ob. Cześć, Czcić.];ob. Cześć, Czcić.
 ku;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=351&highlight=184,3137,856,116; [ku CCI ob. Cześć, Czcić.];ob. Cześć, Czcić.
@@ -1382,7 +1360,7 @@ na;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=492&hi
 na;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=625&highlight=2319,4919,1028,49; [na DORĄCZU ob. na Doręczu.];⟦na DORĄCZU⟧ ob. na Doręczu.
 na;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=806&highlight=349,1329,655,37; [FU na FU ob. Fru.];⟦FU na FU⟧ ob. Fru.
 nadejdzie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/03/index.djvu?djvuopts&page=220&highlight=2467,1903,1574,134; [NADNIJDZIE, NADEJDZIE, ob. Nadchodzić];ob. Nadchodzić
-nadnijdzie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/03/index.djvu?djvuopts&page=220&highlight=2467,1903,1574,134; [NADNIJDZIE, NADEJDZIE, ob. Nadchodzić];ob. Nadchodzić
+nadnijdzie;http://korpusy.klf.uw.edu.pl/djvus/linde-t/03/index.djvu?djvuopts&page=220&highlight=2467,1903,1574,134;[NADNIJDZIE, NADEJDZIE, ob. Nadchodzić];*~~ ob. Nadchodzić
 noc;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=736&highlight=465,4074,1438,43; [DZIEŃ I NOC, Melampyrum Nemorosum,];⟦DZIEŃ I NOC⟧, Melampyrum Nemorosum
 ot;http://korpusy.klf.uw.edu.pl/djvus/linde-t/03/index.djvu?djvuopts&page=622&zoom=width&showposition=0.228,0.849&highlight=1025,894,174,126; [OT!];~!
 piele;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=425&highlight=3359,3100,490,92; [CIELE PIELE];⟦CIELE PIELE⟧
@@ -1398,15 +1376,14 @@ przestrzeżony;http://korpusy.klf.uw.edu.pl/djvus/linde-t/04/index.djvu?djvuopts
 tczy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=488&highlight=3261,1207,227,80; [*TCZY,];*~,
 trętwość;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=661&highlight=3598,888,422,68; [TRĘTWOŚĆ,];
 udziać;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=719&highlight=3396,992,330,62; [udziać dok.];dok.
-ufrasowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=1016,3676,728,55; [UFRASOWANY, a, e,];a, e,
-urlieński;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=164&highlight=2764,5260,425,108; [URLIEŃSKI];
+ufrasowany;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=802&highlight=1016,3676,728,55;[UFRASOWANY, a, e,];, a, e,
+urlieński;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=164&highlight=2764,5260,425,108;[URLIEŃSKI];*~
 w cieście;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=437&highlight=245,4864,789,98; [W CIEŚCIE ob. Ciasto.];⟦W CIEŚCIE⟧ ob. Ciasto.
 w dopadki;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=618&highlight=1199,2757,894,86; [W DOPADKI. adverbialiter,];⟦W DOPADKI⟧ adverbialiter
 w;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=437&highlight=245,4864,789,98; [W CIEŚCIE ob. Ciasto.];⟦W CIEŚCIE⟧ ob. Ciasto.
 w;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=618&highlight=1199,2757,894,86; [W DOPADKI. adverbialiter,];⟦W DOPADKI⟧ adverbialiter
 we;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=698&highlight=453,5642,593,43; [we DWÓJNASÓB];⟦we DWÓJNASÓB⟧
 wieża;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=169&highlight=3165,1637,762,96; [BABILOŃSKA wieża];⟦BABILOŃSKA wieża⟧
-wy;http://korpusy.klf.uw.edu.pl/djvus/linde-t/06/index.djvu?djvuopts&page=447&zoom=width&showposition=0.161,0.381&highlight=204,4588,174,108; [WY];
 z cygańska;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=468&highlight=1646,1476,477,74; [z CYGAŃSKA];⟦z CYGAŃSKA⟧
 z dobromilskiej;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=577&highlight=2558,4429,685,62; [Z DOBROMILSKIEJ];⟦Z DOBROMILSKIEJ⟧
 z;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=468&highlight=1646,1476,477,74; [z CYGAŃSKA];⟦z CYGAŃSKA⟧
@@ -1420,5 +1397,5 @@ ziele,;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=71
 ziele;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=481&highlight=1927,1544,325,55; [Czarownik ziele ob.];⟦Czarownik ziele⟧ ob.
 ćwiczyć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=463&highlight=508,1587,777,67; [ĆWICZYĆ się zaimk.,];się zaimk.,
 ćwierk;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=465&highlight=789,1464,704,80; [2. ĆWIERK, u, m.];2. ~, u, m.
-śrzeniawa.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=2760,4870,452,62; [ŚRZENIAWA.];
+Śrzeniawa.;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=673&highlight=2760,4870,452,62;[ŚRZENIAWA.];
 żachnąć;http://korpusy.klf.uw.edu.pl/djvus/linde-t/01/index.djvu?djvuopts&page=676&highlight=912,5367,642,79; [[ŻACHNĄĆ się. 1]];[~ się. 1]
