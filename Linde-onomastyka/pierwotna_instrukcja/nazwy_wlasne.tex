@@ -1,0 +1,170 @@
+% C-x 8 RET (translated from C-x 8 <return>) runs the command
+% ucs-insert, which is an interactive compiled Lisp function in
+% `mule-cmds.el'.
+\documentclass{beamer}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{polish}
+\usepackage{xltxtra}
+
+\setmainfont[Mapping=tex-text]{TeX Gyre Termes}
+\setsansfont[Mapping=tex-text]{TeX Gyre Termes}
+%\setmainfont{TeXGyreTermes}
+%\setmainfont{DejaVu Serif}
+%\setmainfont{Bitstream Vera Serif}
+\setmonofont{TeX Gyre Cursor}
+%\setmonofont{DejaVu Sans Mono}
+
+\usepackage{relsize}
+%\usepackage{color}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\newcommand{\y}[1]{\colorbox{yellow}{#1}}
+\newcommand{\g}[1]{\colorbox{green}{#1}}
+
+
+\setbeamercovered{highly dynamic}
+
+\setbeamertemplate{navigation symbols}{} %no nav symbols
+
+% to much space for content list?:
+%\usetheme{Warsaw}
+%\usetheme{Copenhagen}
+% not bad:
+%\usetheme{Montpellier}
+%\usetheme{Antibes}
+\usetheme{JuanLesPins}
+
+\usepackage{natbib}
+
+\usepackage{graphicx}
+
+\usepackage{url}
+
+\usepackage{hyperref}
+
+%\font\linkfont="DejaVu Sans Mono"
+
+
+
+    % 2015-02-18
+    % 2015-02-25
+    % 2015-03-04
+    % 2015-03-11
+    % 2015-03-18
+    % 2015-03-25
+    % 2015-04-01
+    % 2015-04-08
+    % 2015-04-15
+    % 2015-04-22
+
+    % 2015-04-29
+    % 2015-05-06
+    % 2015-05-13
+    % 2015-05-20
+    % 2015-05-27
+    % 2015-06-03 
+
+\title[Dygitalizacja polskich słowników
+historycznych (3322-DPSH-OG) 2015-02-25 (2/16)]{\textsc{Konwersatorium}\\Dygitalizacja polskich
+  słowników historycznych}
+
+\author{prof. dr hab. Janusz S. Bień}
+
+\institute{Katedra Lingwistyki Formalnej\\Wydział Neofilologii\\Uniwersytet Warszawski}
+
+\date[2014]{3322-DPSH-OG\\(przedmiot ogólnouniwersytecki humanistyczny)}
+
+%\url{jsbien@uw.edu.pl}
+
+\begin{document}
+
+\begin{frame}
+  \frametitle{Nazwy własne w słowniku Lindego}
+  \url{http://wbl.klf.uw.edu.pl/76/}
+
+  \begin{quote}
+    Wojciech Ryszard Rzepka, Bogdan Walczak\\
+Nazwy własne w słowniku języka polskiego\\
+Samuela Bogumiła Lindego\\
+\url{http://wbl.klf.uw.edu.pl/176/}
+  \end{quote}
+ \begin{itemize}
+  \item Dostępny indeks haseł pisanych dużą literą (Moodle)\\
+    \url{https://bitbucket.org/jsbien/ilindecsv/}
+  \item Należy 
+    \begin{itemize}
+    \item w razie potrzeby odnaleźć hasło w słowniku
+    \item sprawdzić, czy hasło jest nazwą własną,
+    \item jeśli tak, to jakiego typu,
+    \item wpisać odpowiedni komentarz
+    \end{itemize}
+  \item 1 zadanie to 100 haseł (można więcej)
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Typy nazw własnych}
+
+  Klasyfikacja w zasadzie według artykułu Rzepki i Walczaka:
+  \begin{enumerate}
+  \item nazwy miejscowości (\alert{t}oponimy), np. \textit{Adryanopol},
+    \alert{\textit{Adiga}};
+  \item nazwy części świata, państw i ich części oraz krain
+    geograficznych (\alert{c}horonimy), np. \textit{Algier};
+  \item nazwiska, przezwiska i imiona (\alert{a}ntroponimy),
+    np. \textit{Aaron}, \textit{Achacy};
+  \item \alert{e}tnonimy [nazwa ludu, rodu, klanu, plemienia, szczepu,
+    narodu], np. \textit{Afer};
+    \item nazwy \alert{h}erbowe, np. \textit{Abdank}
+  \end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Typy nazw własnych}
+  Uzupełnienia:
+  \begin{itemize}
+  \item \alert{błąd} (np. Abelek),\\
+{\relsize{-2}\url{http://wbl.klf.uw.edu.pl/19/1/iiLinde.djvu?djvuopts=&page=235&zoom=width&showposition=0.5,0.62&highlight=1606,863,139,52}}
+\item \alert{p}ochodne, np. \textit{Aaronowy}
+\item \alert{i}nne
+  \end{itemize}
+Uszczegółowienia:
+\begin{itemize}
+\item toponim: miasto, wieś, rzeka itp.
+\item \ldots
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Przykłady}
+\relsize{-1}
+\begin{verbatim}
+  Adryanopol    ::264-4-33-0-0-0 __ _ ___:: t:miasto
+  Algier    ::296-4-37-0-0-0 __ _ ___::  c:królestwo
+  Aaron    ::273-1-44-0-0-0 __ _ ___:: a:kapłan
+  Afer    ::296-3-41-0-0-0 __ _ ___:: e:Afrykanin
+  Abdank    ::254-3-30-0-0-0 __ _ ___:: h:
+  Abelek;    ::235-4-37-0-0-0 __ _ ___:: błąd 
+  Aaronowy;    ::370-2-13-0-0-0 __ _ ___:: p:Aaron
+\end{verbatim}
+\texttt{kapłan} ? \texttt{Afrykanin} ? może pominąć?
+
+\alert{i} --- na razie brak przykładu
+\end{frame}
+
+\end{document}
+
+
+
+%%% Local Variables: 
+%%% coding: utf-8-unix
+%%% mode: latex
+%%% TeX-master: t
+%%% TeX-PDF-mode: t
+%%% TeX-engine: xetex 
+%%% End: 
