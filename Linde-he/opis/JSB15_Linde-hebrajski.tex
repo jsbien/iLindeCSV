@@ -1,0 +1,190 @@
+\documentclass[12]{mwart}
+\usepackage{polyglossia}
+\setdefaultlanguage{polish}
+
+\usepackage{enumitem}
+\usepackage{draftwatermark}
+
+\usepackage{xltxtra}
+
+\setmainfont[Mapping=tex-text]{TeX Gyre Termes}
+\setsansfont[Mapping=tex-text]{TeX Gyre Adventor}
+%\setmainfont{TeXGyreTermes}
+%\setmainfont{DejaVu Serif}
+%\setmainfont{Bitstream Vera Serif}
+%\setmonofont{TeX Gyre Cursor}
+\setmonofont{DejaVu Sans Mono}
+\usepackage{draftwatermark}
+
+% \usepackage{bibentry,natbib}
+
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+
+\usepackage{soul}
+
+\usepackage{relsize}
+
+\usepackage[style=authoryear,natbib=true]{biblatex}
+%\addbibresource{JSB2013.bib,typografia.bib}
+\addbibresource{4JSB2014.bib}
+\AtEveryBibitem{\clearfield{note}}
+
+
+
+\newcommand{\program}[1]{\textsf{#1}}
+
+\title{Język hebrajski w słowniku Lindego\\Analiza przypadku}
+\author{Janusz S. Bień}
+
+\date{\today}
+
+% \date{24.03.2014, 8.04.2014, ??.10.2014}
+
+\begin{document}
+\maketitle
+% \pagestyle{empty}
+
+% no math
+\catcode`\&=12
+\catcode`\_=12
+
+\begin{quote}
+  Osoby uprawnione mogą korzystać z repozytorium
+  \path{ssh://fleksem.klf.uw.edu.pl//home/jsbien/hg/Linde4tesseract} i
+  nanosić uwagi na tekst źródłowy.
+\end{quote}
+
+\section{Wstęp}
+\label{sec:wstp}
+
+W pliku \path{2h.csv} znajduje się przykładowy indeks do korekty
+wyrazów pisanych alfabetem hebrajskim występujących w pierwszym tomie
+słownika. Może służyć do testowania narzędzi.
+
+W pliku \path{1h.csv} znajduje się przykładowy indeks do korekty
+wyrazów pisanych alfabetem hebrajskim występujących w pierwszym tomie
+słownika. 
+
+Indeks można w zasadzie weryfikować i poprawiać za pomocą
+\texttt{djview4poliqarp}.
+
+Można wykorzystywać rownież odpowiedni edytor tekstowy, ale wymaga to
+nabrania wprawy w edytowaniu tekstów o mieszanym kierunku pisma.
+
+Planowany tryb korekty w programie \texttt{djview4poliqarp}
+powinien być najlepsza metodą.
+
+Indeksy tego typu powinne być tworzone automatycznie. Opisana dalej
+procedura utworzenia tego indeksu ręcznie stanowi punkt wyjścia do
+sformułowania odpowiednio szczegółowego algorytmu.
+
+\section{Wyszukanie słów w alfabecie hebrajskim}
+\label{sec:wyszukanie-sow-w}
+
+Wyszukanie słów było kłopotliwe, ponieważ wyszukiwarka działa obecnie
+tylko na starych skanach. Punktem wyjścia była kwerenda \texttt{Syr},
+trafienia za pomocą programu \texttt{djview4poliqarp} zostały zapisane
+w formie pliku \texttt{csv}. Z pliku tego usunięto niepotrzebne
+kolumny w celu nadania mu formy indeksu. Po otworzeniu indeksu w
+\texttt{djview4poliqarp} wszystkie hasła zostały przejrzane. Hasła
+odnoszące się do przytoczeń w alfabecie hebrajskim zostały
+zmodyfikowane:
+\begin{itemize}
+\item dopasowane zaznaczenia do wyrazu w alfabecie hebrajskim,
+\item hasło zostało zastapione numerem strony.
+\end{itemize}
+Dodatkowo utworzono hasła dla innych wyrazów w alfabecie hebrajskim
+znajdującym się w sąsiedztwie.
+
+W trakcie pracy ujawniła się wada programu \texttt{djview4poliqarp}
+polegajaca na tym, że dla wyświetlonego hasła nie ma metody
+wyświetlenia odpowiedniej strony za pomocą \texttt{djview}, co
+pozwoliłoby zlokalizować stronę w strukturze słownika za pomocą
+,,konspektu''. W konsekwencji numery tomów zostały ustalone przez
+posortowanie w Emacsie wynikowego pliku według URL (z niejasnych
+powodów dało to kilka błędów, które zostały poprawione ręcznie).
+
+Na podstawie numeru tomu i numeru strony możliwe było zlokalizowanie
+szukanych słów w nowych skanach (wygodnie było to robić równolegle z
+oglądaniem trafień na starych skanach).
+
+Niestety w ten sposób udało się znależć tylko niewielką część słów
+pisanych tym alfabtem.
+
+\section{Lokalizowanie i wycinanie słów w alfabecie hebrajskim}
+\label{sec:lokal-i-wycin}
+
+\texttt{djview4poliqarp} nie pozwala indeksować dowolnego dokumentu
+DjVu, co można uznać za wadę. Najpierw został stworzony ,,ślepy''
+indeks zawierający w charakterze hasła tylko numer tomu i numer strony
+(w razie potrzeby powtórzone odpowiednią liczbę razy), a potem za
+pomocą \texttt{djview} były tworzone URL dopisywane do pliku. Okazało
+się jednak to niewygodne, dla drugiego tomu utworzono ślepy indeks
+zawierający bezpośredni kontekst w komentarzu.
+
+W ogólnym wypadku wycinki powinne być robione automatycznie na
+podstawie URL, i pobierane od razu z binarnej maski. 
+
+Obecnie konieczne było stosowanie funkcji programu \texttt{djview}
+zapisywania zaznaczenia w pliku graficznym --- stosowany był format
+\texttt{png} (bez konkretnego powodu). Niestety wydaje się, że tak
+utworzone pliki mają rozdzielczość zależną od jakichś przygodnych
+czynników, nie stanowią więc rzeczywistych wycinków oryginału.
+
+\section{OCR słów w języku hebrajskim}
+\label{sec:ocr-sow-w}
+
+Wybrałem najprostszą, choć może nie najlepszą drogę --- uzyskane
+wycinki wykorzystałem jako dane do FineReadera. Wiekszość liter
+FineReader --- jak się wydaje --- rozpoznał poprawnie. Kilka razy
+niewątpliwie się pomylił. Kilka razy źle okreslił gabaryty słów, po
+ich ręcznej modyfikacji rozpoznał słowa lepiej (a w każdym razie
+inaczej). Niektórych słów nie rozpoznał w ogóle - były to słowa
+nadmiernie powiększone przy robieniu wycinków.
+
+Wyniki zostały zapisane w formacie PDF i w formie czystego tekstu. PDF
+został skonwertowany do DjVu, aby mieć jednocześnie dostęp do skanu i
+tekstu. Wydaje się jednak, że \textit{pdf2djvu} zmienił kolejność
+znaków hebrajskich.
+
+Dla tomu drugiego zapisano wyniki w formie czystego tekstu i tam
+kolejność znaków była prawidłowa.
+
+\section{Nanoszenie wyników OCR na indeks}
+\label{sec:nanosz-wynik-ocr}
+
+Zadanie to powinno być oczywiście wykonywane automatycznie, robienie
+tego ręcznie okazało się tak niewdzięczne, że próbka została
+ograniczona tylko do pierwszych dwóch tomów.
+
+Istotnym problemem jest kierunek pisma:
+\begin{itemize}
+\item na jakim etapie przetwarzania zmieniła się kolejność liter ---
+  sprawa ta wymaga wyjaśnienia,
+\item na litery hebrajskie Emacs reaguje przejsciem w tryb pisania od
+  prawe do lewej, co jest mocno dezorientujace i sprzyja pomyłkom.
+\end{itemize}
+
+Kształt znaków hebrajskich w domyślnym foncie (DejavuSans?) różni się
+znacznie od ich kształtów w słowniku Lindego. Wskazane jest używanie
+fontu bardziej przypominajacego oryginalny (Cardo?, Linux
+Libertine?). Jednak obecnie indeks w \texttt{djview4poliqarp}
+wyświetlany jest za pomocą fontu systemowego.
+
+\section{Zakończenie}
+\label{sec:zakoczenie}
+
+Ręczne przygotowanie indeksu okazało się trudniejsze, niż się
+wydawało.
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% TeX-engine: xetex
+%%% TeX-PDF-mode: t
+%%% coding: utf-8
+%%% End:
