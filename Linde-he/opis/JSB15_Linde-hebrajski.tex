@@ -26,10 +26,10 @@
 
 \usepackage{relsize}
 
-\usepackage[style=authoryear,natbib=true]{biblatex}
-%\addbibresource{JSB2013.bib,typografia.bib}
-\addbibresource{4JSB2014.bib}
-\AtEveryBibitem{\clearfield{note}}
+% \usepackage[style=authoryear,natbib=true]{biblatex}
+% %\addbibresource{JSB2013.bib,typografia.bib}
+% \addbibresource{4JSB2014.bib}
+% \AtEveryBibitem{\clearfield{note}}
 
 
 
@@ -38,7 +38,7 @@
 \title{Język hebrajski w słowniku Lindego\\Analiza przypadku}
 \author{Janusz S. Bień}
 
-\date{\today}
+\date{16.03.2015, 13.04.2018}
 
 % \date{24.03.2014, 8.04.2014, ??.10.2014}
 
@@ -51,9 +51,9 @@
 \catcode`\_=12
 
 \begin{quote}
-  Osoby uprawnione mogą korzystać z repozytorium
-  \path{ssh://fleksem.klf.uw.edu.pl//home/jsbien/hg/Linde4tesseract} i
-  nanosić uwagi na tekst źródłowy.
+  Tekst na otwartej licencji Creative Commons Uznanie Autorstwa,
+  źródła dostępne w repozytorium
+  \url{https://bitbucket.org/jsbien/ilindecsv}.
 \end{quote}
 
 \section{Wstęp}
@@ -102,7 +102,8 @@ W trakcie pracy ujawniła się wada programu \texttt{djview4poliqarp}
 polegajaca na tym, że dla wyświetlonego hasła nie ma metody
 wyświetlenia odpowiedniej strony za pomocą \texttt{djview}, co
 pozwoliłoby zlokalizować stronę w strukturze słownika za pomocą
-,,konspektu''. W konsekwencji numery tomów zostały ustalone przez
+,,konspektu'' (w ,,starych skanach'' cały słownik stanowił formalnie
+jeden dokument).. W konsekwencji numery tomów zostały ustalone przez
 posortowanie w Emacsie wynikowego pliku według URL (z niejasnych
 powodów dało to kilka błędów, które zostały poprawione ręcznie).
 
@@ -111,18 +112,19 @@ szukanych słów w nowych skanach (wygodnie było to robić równolegle z
 oglądaniem trafień na starych skanach).
 
 Niestety w ten sposób udało się znależć tylko niewielką część słów
-pisanych tym alfabtem.
+pisanych tym alfabetem.
 
 \section{Lokalizowanie i wycinanie słów w alfabecie hebrajskim}
 \label{sec:lokal-i-wycin}
 
-\texttt{djview4poliqarp} nie pozwala indeksować dowolnego dokumentu
-DjVu, co można uznać za wadę. Najpierw został stworzony ,,ślepy''
-indeks zawierający w charakterze hasła tylko numer tomu i numer strony
-(w razie potrzeby powtórzone odpowiednią liczbę razy), a potem za
-pomocą \texttt{djview} były tworzone URL dopisywane do pliku. Okazało
-się jednak to niewygodne, dla drugiego tomu utworzono ślepy indeks
+Początkowo program \texttt{djview4poliqarp} nie pozwalał indeksować
+dowolnego dokumentu DjVu. Najpierw został stworzony ,,ślepy'' indeks
+zawierający w charakterze hasła tylko numer tomu i numer strony (w
+razie potrzeby powtórzone odpowiednią liczbę razy), a potem za pomocą
+\texttt{djview} były tworzone URL dopisywane do pliku. Okazało się
+jednak to niewygodne, dla drugiego tomu utworzono ślepy indeks
 zawierający bezpośredni kontekst w komentarzu.
+% Już tego nie pamiętam, a obecnie tego opisu nie rozumiem :-(
 
 W ogólnym wypadku wycinki powinne być robione automatycznie na
 podstawie URL, i pobierane od razu z binarnej maski. 
