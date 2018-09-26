@@ -16,7 +16,7 @@ Skonfiguruj -> "Local files").
 
 Drugi indeks zawiera odesłania również do dokumentów w formatach
 nieobsługiwanych przez djview4poliqarp, dlatego zapisane są one w polu
-komentarz. Jeśli odesłanie kieruje do metadanych dokuemntu w formacie
+komentarz. Jeśli odesłanie kieruje do metadanych dokumentu w formacie
 DjVu, to można indeks uzupełnić o odesłanie bezpośrednio do dokumentu,
 jak pokazuje to hasło "Ząbk". Takie uzupełnienia można wykonać
 automatycznie, ale jest to dość trudne - przy niewielkiej liczbie
