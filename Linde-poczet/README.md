@@ -1,4 +1,4 @@
-Indeksy dla programu djview4poliqarp przugotował w 2018 r. Janusz
+Indeksy dla programu djview4poliqarp przygotował w 2018 r. Janusz
 S. Bień na podstawie wyników zadań studenckich wykonanych w ramach
 zajęć ogólnouniwersyteckich 3322-RIBC-OG "Repozytoria i biblioteki
 cyfrowe" (Konwersatorium), które prowadził na Uniwersytecie
