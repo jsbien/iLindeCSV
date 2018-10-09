@@ -1,0 +1,7 @@
+2017-06-23 Wprowadzenie podwójnych identyfikatorów w przypadku haseł
+redundantnych, np. ::093-3-17-0-0-0 __ _ ___/093-3-18-0-0-0 sk _ ()_::
+
+2017-06-19 Wprowadzona notacja ((...)) dla haseł odsyłaczowych.
+
+2017-06-24 Wprowadzona notacja //...// dla haseł zbliżonych do haseł z
+indeksu a tergo, np.  //013-4-20-0-0-0 __ _ ___//
