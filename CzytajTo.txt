@@ -1,1 +1,1 @@
-Patrz https://bitbucket.org/jsbien/ilindecsv/wiki/Home.md
+Patrz README.md, Uaktualnienia-wiki.txt i https://bitbucket.org/jsbien/ilindecsv/wiki/Home.md
