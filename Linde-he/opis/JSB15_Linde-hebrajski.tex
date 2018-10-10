@@ -38,7 +38,7 @@
 \title{Język hebrajski w słowniku Lindego\\Analiza przypadku}
 \author{Janusz S. Bień}
 
-\date{16.03.2015, 13.04.2018}
+\date{16.03.2015, 10.10.2018}
 
 % \date{24.03.2014, 8.04.2014, ??.10.2014}
 
@@ -55,7 +55,11 @@
   źródła dostępne w repozytorium
   \url{https://bitbucket.org/jsbien/ilindecsv}.
 
-  \textbf{Tekst wymaga uaktualnienia!}
+  \bigskip
+  Indeksy zostały przygotowane w 2015 i w tym samym czasie opisane
+  nieco zbyt skrótowo w niniejszym tekście. W 2018 r. dodano
+  uzupełnienia i objaśnienia w formie przypisów lub uwag w inny sposób
+  wyróżnionych typograficznie.
 \end{quote}
 
 \section{Wstęp}
@@ -63,77 +67,108 @@
 
 W pliku \path{1h.csv} znajduje się przykładowy indeks do korekty
 wyrazów pisanych alfabetem hebrajskim występujących w pierwszym tomie
-słownika. Może służyć do testowania narzędzi.
+słownika. Może służyć do testowania narzędzi.\footnote{Planowane
+  narzędzie nie powstały.}
 
 W pliku \path{2h.csv} znajduje się przykładowy indeks do korekty
-wyrazów pisanych alfabetem hebrajskim występujących w drugim tomie
-słownika.
+wyrazów pisanych alfabetem hebrajskim występujących w pierwszym tomie
+słownika. 
+
+\begin{quote}
+  \textit{Udostępnione są również robocze indeksy, w tym również dla
+    innych tomów.}[2018]
+\end{quote}
 
 Indeks można w zasadzie weryfikować i poprawiać za pomocą
-\texttt{djview4poliqarp}.
+\texttt{djview4poliqarp}\footnote{Patrz
+  np. \url{https://www.slideshare.net/jsbien/jsb-i-linde181001ipi-117452985}}.
 
-Można wykorzystywać rownież odpowiedni edytor tekstowy, ale wymaga to
+Można wykorzystywać również odpowiedni edytor tekstowy, ale wymaga to
 nabrania wprawy w edytowaniu tekstów o mieszanym kierunku pisma.
 
-Planowany tryb korekty w programie \texttt{djview4poliqarp}
-powinien być najlepsza metodą.
+Planowany tryb korekty w programie \texttt{djview4poliqarp} powinien
+być najlepsza metodą\footnote{Częściowo nieaktualny tekst \textit{Tryb korekty w
+    djview4poliqarp} z 2015 r. jest obecnie dostępny w repozytorium
+  \url{https://bitbucket.org/jsbien/linde-info}. Proponowane tam
+  rozszerzenia programu \textsf{djview4poliqarp} nie wydają się
+  obecnie tak bardzo istotne.}.
 
-Indeksy tego typu powinne być tworzone automatycznie. Opisana dalej
+Indeksy tego typu powinny być tworzone automatycznie. Opisana dalej
 procedura utworzenia tego indeksu ręcznie stanowi punkt wyjścia do
-sformułowania odpowiednio szczegółowego algorytmu.
+sformułowania odpowiednio szczegółowego algorytmu\footnote{W aktualnej
+  wersji \textsf{djview4poliqarp} tworzenie indeksów jest nieco
+  łatwiejsze, swoją drogą zmianie ulegly też priorytety.}.
 
 \section{Wyszukanie słów w alfabecie hebrajskim}
 \label{sec:wyszukanie-sow-w}
 
 Wyszukanie słów było kłopotliwe, ponieważ wyszukiwarka działa obecnie
-tylko na starych skanach. Punktem wyjścia była kwerenda \texttt{Syr},
-trafienia za pomocą programu \texttt{djview4poliqarp} zostały zapisane
-w formie pliku \texttt{csv}. Z pliku tego usunięto niepotrzebne
-kolumny w celu nadania mu formy indeksu. Po otworzeniu indeksu w
+tylko na starych skanach\footnote{Nieaktualne. Stare skany to inaczej
+  wersja 2010, patrz
+  \url{https://szukajwslownikach.uw.edu.pl/slownik-lindego/}.}. Punktem
+wyjścia była kwerenda \texttt{Syr}, trafienia za pomocą programu
+\texttt{djview4poliqarp} zostały zapisane w formie pliku
+\texttt{csv}. Z pliku tego usunięto niepotrzebne kolumny w celu
+nadania mu formy indeksu. Po otworzeniu indeksu w
 \texttt{djview4poliqarp} wszystkie hasła zostały przejrzane. Hasła
 odnoszące się do przytoczeń w alfabecie hebrajskim zostały
 zmodyfikowane:
 \begin{itemize}
 \item dopasowane zaznaczenia do wyrazu w alfabecie hebrajskim,
-\item hasło zostało zastapione numerem strony.
+\item hasło zostało zastąpione numerem strony.
 \end{itemize}
 Dodatkowo utworzono hasła dla innych wyrazów w alfabecie hebrajskim
 znajdującym się w sąsiedztwie.
 
 W trakcie pracy ujawniła się wada programu \texttt{djview4poliqarp}
-polegajaca na tym, że dla wyświetlonego hasła nie ma metody
+polegająca na tym, że dla wyświetlonego hasła nie ma metody
 wyświetlenia odpowiedniej strony za pomocą \texttt{djview}, co
 pozwoliłoby zlokalizować stronę w strukturze słownika za pomocą
 ,,konspektu'' (w ,,starych skanach'' cały słownik stanowił formalnie
-jeden dokument).. W konsekwencji numery tomów zostały ustalone przez
-posortowanie w Emacsie wynikowego pliku według URL (z niejasnych
-powodów dało to kilka błędów, które zostały poprawione ręcznie).
+jeden dokument)\footnote{Wada ta została usunięta dopiero 2 2018
+  r. (wersja 3 programu).}. W konsekwencji numery tomów zostały
+ustalone przez posortowanie w Emacsie wynikowego pliku według URL (z
+niejasnych powodów dało to kilka błędów, które zostały poprawione
+ręcznie).
 
 Na podstawie numeru tomu i numeru strony możliwe było zlokalizowanie
-szukanych słów w nowych skanach (wygodnie było to robić równolegle z
-oglądaniem trafień na starych skanach).
+szukanych słów w nowych skanach\footnote{Chodzi o skany w wyższej
+  rozdzielczości i w skali szarości, a nie czarno białe, jak wersja
+  2010. Jest to tzw. wersja 2016, patrz
+  \url{https://szukajwslownikach.uw.edu.pl/slownik-lindego-nowy/}.}
+(wygodnie było to robić równolegle z oglądaniem trafień na starych
+skanach).
 
-Niestety w ten sposób udało się znależć tylko niewielką część słów
-pisanych tym alfabetem.
+Niestety w ten sposób udało się znaleźć tylko niewielką część słów
+pisanych tym alfabetem.\footnote{Stwierdzenie niejasne, do
+  zweryfikowania przez powtórzenie wyszukiwania bezpośrednio na nowych
+  skanach.}.
 
 \section{Lokalizowanie i wycinanie słów w alfabecie hebrajskim}
 \label{sec:lokal-i-wycin}
 
 Początkowo program \texttt{djview4poliqarp} nie pozwalał indeksować
-dowolnego dokumentu DjVu. Najpierw został stworzony ,,ślepy'' indeks
-zawierający w charakterze hasła tylko numer tomu i numer strony (w
-razie potrzeby powtórzone odpowiednią liczbę razy), a potem za pomocą
-\texttt{djview} były tworzone URL dopisywane do pliku. Okazało się
-jednak to niewygodne, dla drugiego tomu utworzono ślepy indeks
-zawierający bezpośredni kontekst w komentarzu.
+dowolnego dokumentu DjVu\footnote{Niejasne jest użycie czasu
+  przeszłego, do ewentualnej weryfikacji w historii
+  programu.}. Najpierw został stworzony ,,ślepy'' indeks zawierający w
+charakterze hasła tylko numer tomu i numer strony (w razie potrzeby
+powtórzone odpowiednią liczbę razy), a potem za pomocą \texttt{djview}
+były tworzone URL dopisywane do pliku. Okazało się jednak to
+niewygodne, dla drugiego tomu utworzono ślepy indeks zawierający
+bezpośredni kontekst w komentarzu.
 % Już tego nie pamiętam, a obecnie tego opisu nie rozumiem :-(
 
-W ogólnym wypadku wycinki powinne być robione automatycznie na
-podstawie URL, i pobierane od razu z binarnej maski. 
+W ogólnym wypadku wycinki powinny być robione automatycznie na
+podstawie URL\footnote{Patrz
+  \url{https://sourceforge.net/p/djvu/feature-requests/95/}.}, i
+pobierane od razu z binarnej maski\footnote{Ma to sens tylko wtedy,
+  gdy mamy pewność, że binaryzacja jest poprawna}.
 
 Obecnie konieczne było stosowanie funkcji programu \texttt{djview}
 zapisywania zaznaczenia w pliku graficznym --- stosowany był format
-\texttt{png} (bez konkretnego powodu). Niestety wydaje się, że tak
+\texttt{png} (bez konkretnego powodu)\footnote{Funkcję taką ma również
+  \textsf{djview4poliqarpq}, widocznie nie był stosowany ze względu na
+  problem wspomniany wcześniej/}. Niestety wydaje się, że tak
 utworzone pliki mają rozdzielczość zależną od jakichś przygodnych
 czynników, nie stanowią więc rzeczywistych wycinków oryginału.
 
@@ -141,9 +176,9 @@ czynników, nie stanowią więc rzeczywistych wycinków oryginału.
 \label{sec:ocr-sow-w}
 
 Wybrałem najprostszą, choć może nie najlepszą drogę --- uzyskane
-wycinki wykorzystałem jako dane do FineReadera. Wiekszość liter
+wycinki wykorzystałem jako dane do FineReadera. Większość liter
 FineReader --- jak się wydaje --- rozpoznał poprawnie. Kilka razy
-niewątpliwie się pomylił. Kilka razy źle okreslił gabaryty słów, po
+niewątpliwie się pomylił. Kilka razy źle określił gabaryty słów, po
 ich ręcznej modyfikacji rozpoznał słowa lepiej (a w każdym razie
 inaczej). Niektórych słów nie rozpoznał w ogóle - były to słowa
 nadmiernie powiększone przy robieniu wycinków.
@@ -156,24 +191,30 @@ znaków hebrajskich.
 Dla tomu drugiego zapisano wyniki w formie czystego tekstu i tam
 kolejność znaków była prawidłowa.
 
+\begin{quote}
+  Obecnie można rozważyć wykorzystanie Tesseracta. [2018]
+\end{quote}
+
 \section{Nanoszenie wyników OCR na indeks}
 \label{sec:nanosz-wynik-ocr}
 
 Zadanie to powinno być oczywiście wykonywane automatycznie, robienie
 tego ręcznie okazało się tak niewdzięczne, że próbka została
-ograniczona tylko do pierwszych dwóch tomów.
+ograniczona tylko do pierwszych dwóch tomów\footnote{Dla pozostałych
+  tomów dostępne są tylko indeksy z lokalizacją, ale bez treści
+  haseł.}.
 
 Istotnym problemem jest kierunek pisma:
 \begin{itemize}
 \item na jakim etapie przetwarzania zmieniła się kolejność liter ---
   sprawa ta wymaga wyjaśnienia,
-\item na litery hebrajskie Emacs reaguje przejsciem w tryb pisania od
-  prawe do lewej, co jest mocno dezorientujace i sprzyja pomyłkom.
+\item na litery hebrajskie Emacs reaguje przejściem w tryb pisania od
+  prawe do lewej, co jest mocno dezorientujące i sprzyja pomyłkom.
 \end{itemize}
 
 Kształt znaków hebrajskich w domyślnym foncie (DejavuSans?) różni się
 znacznie od ich kształtów w słowniku Lindego. Wskazane jest używanie
-fontu bardziej przypominajacego oryginalny (Cardo?, Linux
+fontu bardziej przypominającego oryginalny (Cardo?, Linux
 Libertine?). Jednak obecnie indeks w \texttt{djview4poliqarp}
 wyświetlany jest za pomocą fontu systemowego.
 
@@ -183,12 +224,22 @@ wyświetlany jest za pomocą fontu systemowego.
 Ręczne przygotowanie indeksu okazało się trudniejsze, niż się
 wydawało.
 
+\begin{quote}
+  Trudność brała się z nieznajomości alfabetu hebrajskiego i
+  konieczności wykorzystywania automatycznego rozpoznawania znaków,
+  oraz z braku wprawy w edycji tekstów o dwóch kierunkach
+  pisma. Całkowicie ręczne wpisywanie haseł do indeksu w programie
+  \textsf{djview4poliqarp} byłoby chyba znacznie łatwiejsze.
+\end{quote}
+
 \end{document}
 
-%%% Local Variables:
+%%% Local Variables: 
+%%% ispell-local-dictionary: "polish"
+%%% eval: (flyspell-mode 1)
+%%% coding: utf-8-unix
 %%% mode: latex
 %%% TeX-master: t
-%%% TeX-engine: xetex
 %%% TeX-PDF-mode: t
-%%% coding: utf-8
-%%% End:
+%%% TeX-engine: xetex
+%%% End: 
